@@ -212,7 +212,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         {content}
 
         <footer>
-            🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via <a href="https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/" target="_blank" style="color: #8b0000; text-decoration: underline;">ventpipe.blog</a>
+            | 🙏 ॐ नमः शिवाय 🙏 | 🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via <a href="https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/" target="_blank" style="color: #8b0000; text-decoration: underline;">ventpipe.blog</a>
         </footer>
     </div>
 </body>

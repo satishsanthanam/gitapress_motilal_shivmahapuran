@@ -113,7 +113,6 @@ def build_site():
                 nav_html.append(f'<li><a href="#" data-eng="{eng}" data-hin="{hin}" onclick="loadChapter(\'{eng}\', \'{hin}\', \'{item["prev_eng"]}\', \'{item["next_eng"]}\', \'{item["prev_hin"]}\', \'{item["next_hin"]}\'); return false;">{ch_display}</a></li>')
 
         for sub in sub_keys:
-            # Map sub-section key to readable Khaṇḍa name
             sub_name = SUBSECTION_NAMES.get(s_key, {}).get(sub, f"Section {sub}")
             nav_html.append(f'<li style="margin-left: -5px;"><details><summary style="background:#3182ce;">{sub_name}</summary><ul>')
             for item in tree_data[s_key][sub]:
@@ -198,7 +197,7 @@ def build_site():
             <iframe id="frame-hin" src="about:blank"></iframe>
         </div>
         <footer class="site-footer">
-            🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via <a href="https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/" target="_blank" style="color: #63b3ed; text-decoration: underline;">ventpipe.blog</a>
+            | 🙏 ॐ नमः शिवाय 🙏 | 🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via <a href="https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/" target="_blank" style="color: #63b3ed; text-decoration: underline;">ventpipe.blog</a>
         </footer>
     </div>
 

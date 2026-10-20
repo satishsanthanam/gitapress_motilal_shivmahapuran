@@ -40,7 +40,6 @@ def build_site():
                 parts = rel_path.split("/")
                 samhita = parts[0]
                 
-                # Sub-Samhitas check (e.g., ./02/01/ch_00)
                 if len(parts) == 3:
                     sub_sec = parts[1]
                     chapter = parts[2]
@@ -58,17 +57,15 @@ def build_site():
                 else:
                     existing["hin"] = f"{rel_path}/san-hin.html"
 
-    # Sort chapters sequentially
     chapter_list.sort(key=lambda x: (x["samhita"], x["sub_sec"] or "", x["chapter"]))
 
-    # Add prev/next links
     for idx, item in enumerate(chapter_list):
         item["prev_eng"] = chapter_list[idx-1]["eng"] if idx > 0 and "eng" in chapter_list[idx-1] else ""
         item["next_eng"] = chapter_list[idx+1]["eng"] if idx < len(chapter_list)-1 and "eng" in chapter_list[idx+1] else ""
         item["prev_hin"] = chapter_list[idx-1]["hin"] if idx > 0 and "hin" in chapter_list[idx-1] else ""
         item["next_hin"] = chapter_list[idx+1]["hin"] if idx < len(chapter_list)-1 and "hin" in chapter_list[idx+1] else ""
 
-    # 2. Build Navigation Tree Structure (NO 'open' attribute -> collapsed by default)
+    # 2. Build Navigation Tree
     tree_data = {}
     for item in chapter_list:
         s = item["samhita"]
@@ -88,7 +85,6 @@ def build_site():
     nav_html = []
     for s_key in sorted(tree_data.keys()):
         s_name = SAMHITA_NAMES.get(s_key, f"Saṁhitā {s_key}")
-        # Note: 'details' without 'open' keeps it collapsed initially
         nav_html.append(f'<details><summary>{s_name}</summary><ul>')
 
         sub_keys = sorted([k for k in tree_data[s_key].keys() if k != "root"])
@@ -119,7 +115,6 @@ def build_site():
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Śiva Purāṇa - Digital Library</title>
-    <!-- Pagefind Search UI assets -->
     <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
     <script src="/pagefind/pagefind-ui.js"></script>
     <style>
@@ -195,7 +190,52 @@ def build_site():
         let state = {{ prev_eng: '', next_eng: '', prev_hin: '', next_hin: '' }};
 
         window.addEventListener('DOMContentLoaded', (event) => {{
-            new PagefindUI({{ element: "#search", showSubResults: true, resetFilters: false }});
+            const pf = new PagefindUI({{
+                element: "#search",
+                showSubResults: true,
+                resetFilters: false,
+                processResult: function(result) {{
+                    // Append .html if Pagefind strips it
+                    if (result.url && !result.url.endsWith('.html') && !result.url.includes('#')) {{
+                        result.url = result.url + '.html';
+                    }}
+                    return result;
+                }}
+            }});
+
+            // Global capture-phase listener to intercept search result links
+            document.addEventListener('click', function(e) {{
+                const anchor = e.target.closest('a');
+                if (anchor && anchor.closest('#search')) {{
+                    let href = anchor.getAttribute('href');
+                    if (!href || href === '#') return;
+
+                    if (href.startsWith('/')) href = href.substring(1);
+                    if (!href.endsWith('.html') && !href.includes('#')) href += '.html';
+
+                    // Extract chapter path without anchor
+                    const cleanPath = href.split('#')[0];
+
+                    // Match with sidebar links
+                    const matchLink = document.querySelector(`#sidebar a[data-eng="${{cleanPath}}"]`) || 
+                                      document.querySelector(`#sidebar a[data-hin="${{cleanPath}}"]`);
+
+                    e.preventDefault();
+                    e.stopPropagation();
+
+                    if (matchLink) {{
+                        matchLink.click();
+                    }} else {{
+                        if (cleanPath.includes('san-hin')) {{
+                            switchTab('hin');
+                            document.getElementById('frame-hin').src = cleanPath;
+                        }} else {{
+                            switchTab('eng');
+                            document.getElementById('frame-eng').src = cleanPath;
+                        }}
+                    }}
+                }}
+            }}, true);
         }});
 
         function loadChapter(engPath, hinPath, pEng, nEng, pHin, nHin) {{
@@ -231,17 +271,14 @@ def build_site():
             const attr = currentTab === 'eng' ? 'data-eng' : 'data-hin';
             const link = document.querySelector(`#sidebar a[${{attr}}="${{path}}"]`);
             if (link) {{
-                // Auto-expand parent <details> elements so active link is visible
                 let parent = link.closest('details');
                 while (parent) {{
                     parent.open = true;
                     parent = parent.parentElement ? parent.parentElement.closest('details') : null;
                 }}
                 
-                // Highlight active link
                 document.querySelectorAll('#sidebar a').forEach(a => a.classList.remove('active-link'));
                 link.classList.add('active-link');
-                
                 link.click();
             }}
         }}
@@ -267,7 +304,6 @@ def build_site():
         window.onload = function() {{
             const firstLink = document.querySelector('#sidebar a');
             if(firstLink) {{
-                // Expand first chapter's parent details on load
                 let parent = firstLink.closest('details');
                 while (parent) {{ parent.open = true; parent = parent.parentElement ? parent.parentElement.closest('details') : null; }}
                 firstLink.click();
@@ -281,13 +317,6 @@ def build_site():
 
     with open(os.path.join(build_dir, "index.html"), "w", encoding="utf-8") as f:
         f.write(index_content)
-
-    tar_filename = "website_archive.tar.gz"
-    with tarfile.open(tar_filename, "w:gz") as tar:
-        tar.add(build_dir, arcname=os.path.basename(build_dir))
-
-    print(f"🎉 Website built successfully! Included {copied_count} HTML files in 'html_out'.")
-    print(f"📦 Archive created: {tar_filename}")
 
 if __name__ == "__main__":
     build_site()

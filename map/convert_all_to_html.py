@@ -108,8 +108,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         .col-translation {{
             color: var(--translation-color);
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans Devanagari", sans-serif;
-            font-size: 1.05rem;
-            font-weight: 500;
+            font-size: 1.15rem;
+            font-weight: 600;
             white-space: pre-line;
         }}
 
@@ -212,7 +212,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         {content}
 
         <footer>
-            🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via <a href="https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/" target="_blank" style="color: #63b3ed; text-decoration: underline;">ventpipe.blog</a>
+            🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via <a href="https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/" target="_blank" style="color: #8b0000; text-decoration: underline;">ventpipe.blog</a>
         </footer>
     </div>
 </body>

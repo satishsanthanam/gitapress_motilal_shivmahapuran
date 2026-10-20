@@ -4,8 +4,8 @@ import tarfile
 import re
 
 SAMHITA_NAMES = {
-    "00": "00 - Vidyeśvara Saṁhitā",
-    "01": "01 - Rudra Saṁhitā (Sṛṣṭi Khaṇḍa)",
+    "00": "00 - Śivapurāṇa-māhātmya",
+    "01": "01 - Vidyeśvara Saṁhitā",
     "02": "02 - Rudra Saṁhitā",
     "03": "03 - Śatarudra Saṁhitā",
     "04": "04 - Koṭirudra Saṁhitā",
@@ -297,17 +297,18 @@ def build_site():
 
         function switchTab(type) {{
             currentTab = type;
-            const buttons = document.querySelectorAll('.tab-button');
-            buttons.forEach(b => b.classList.remove('active'));
+            const buttons = document.querySelector('button');
+            const tabButtons = document.querySelectorAll('.tab-button');
+            tabButtons.forEach(b => b.classList.remove('active'));
 
             document.getElementById('frame-eng').classList.remove('active');
             document.getElementById('frame-hin').classList.remove('active');
 
             if(type === 'eng') {{
-                buttons[0].classList.add('active');
+                tabButtons[0].classList.add('active');
                 document.getElementById('frame-eng').classList.add('active');
             }} else {{
-                buttons[1].classList.add('active');
+                tabButtons[1].classList.add('active');
                 document.getElementById('frame-hin').classList.add('active');
             }}
             updateNavButtons();

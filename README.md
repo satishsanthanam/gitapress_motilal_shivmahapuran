@@ -25,6 +25,17 @@ A high-performance, responsive static web publication and search platform for th
 * **Static Client-Side Search**: Embedded **Pagefind** search engine enabling instant full-text search across Sanskrit, English, and Hindi text directly in the browser.
 * **Automated Cloudflare Pages Deployment**: Custom Python pipeline integrated with Cloudflare Pages for automated static builds on every push to `main`.
 
+### 🌐 Dual-Pane Reader & Instant Search Engine
+
+* **Dual-Pane Language Toggle (Sanskrit – English / Sanskrit – Hindi)**:
+  * **Sanskrit – English Tab**: Displays original Devanagari Sanskrit verses alongside J. L. Shastri’s classic English translation and footnotes.
+  * **Sanskrit – Hindi Tab**: Displays Devanagari Sanskrit verses alongside Hindi translations from Gita Press’s *Shri Shiv Maha Puran Ank* (Kalyan 91st Year Special Edition).
+  * Smooth one-click switching between views without losing reading scroll position or current chapter context.
+
+* **Instant Static Search (Pagefind)**:
+  * Full-text indexing across all Sanskrit Devanagari verses, English translations, and Hindi commentary.
+  * Automated routing interceptor that opens search results directly inside the active dual-pane iframe layout without breaking context.
+  
 ---
 
 ## Repository & Project Structure

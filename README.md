@@ -183,6 +183,11 @@ Open `http://localhost:8000` in your web browser.
 
 **॥ ॐ नमः शिवाय ॥**
 
-**🙏 Shri Krishnarpanam Asthu 🙏 | Maintained & published via [ventpipe.blog**](https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/)
+**🙏 Shri Krishnarpanam Asthu 🙏** | Maintained & published via [ventpipe.blog](https://ventpipe.blog/2026/10/20/shri-siva-mahapurana-trilingual-edition/)
 
 Maintained as part of an open-access digital Sanskrit scripture preservation initiative. Free for non-commercial, educational, and research utilization.
+
+## Pending activities
+
+*  Footer mapping for english translation from third samhita
+*  Comprehensive Proof reading

@@ -1,0 +1,2912 @@
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\00\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): Slokas (Verses)...
+   Split Content (1) : <h2><em>Introduction Śivapurāṇa-māhātmya</em></h2>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2>(<em>Benedictory Prayer</em>)</h2>...
+   Split Content (3) : <h2><em>I meditate on Śiva, the lord of Ambikā (Pārvatī), auspicious from the beginning to the end, ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (12) : <p>&ldquo;That from whom words recede, not approaching him even with the mind; that from whom this e...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 25 (Split continuation of Row 24):
+   Previous Row (24): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (25) : <p>O Sūta, you have narrated Śravaṇa etc.&mdash;the three means of salvation. If a person is unable ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_06\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 6 - Battle between Brahmā and Viṣṇu</h1>...
+   Split Content (2) : <p><em>Summary</em>: The journey to Kailāśa of the Devas terrified by the use of the Pāśupata weapon...
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>4. Expiatory rites are ordained for that spiteful wretch who behaves like a h...
+   Split Content (8) : <p><em>5</em>. On hearing these words Viṣṇu was angry. But assuming a calm exterior he said&mdash;&l...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 10 | Parsed Range: (6, 6)
+  🟡 MISSING VERSE GAP (Missing verses 5 to 5)
+  Snippet: <p>6. Dear Viṣṇu, know me to have come with the speed of the Time. I am to be honoured gre...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <p>2. O gods, the fight between Brahmā and Viṣṇu is</p>...
+   Split Content (5) : <p>already known to me. This agitation on your part is like a redundant speech.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_08\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1. Mahādeva then created a wonderful person, Bhairava, from the middle of his...
+   Split Content (4) : <p><em>2</em>. This Bhairava knelt before the lord in the battle-field and said&mdash;&ldquo;O lord,...
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (15) : <p>O Lord, be pleased. O flourishing one, I consider this sparing of my head itself a great blessing...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 5 | Parsed Range: (3, 3)
+  🟡 MISSING VERSE GAP (Missing verses 2 to 2)
+  Snippet: <p>3. &ldquo;Dear, here is Brahmā, the first deity of the universe. Worship him with your ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_09\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2><em>Nandikeśvara said</em>:&mdash;</h2>...
+   Split Content (3) : <p>I. In the mean time Brahmā and Viṣṇu had been standing silently on either side of the lord with t...
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <h2><em>Īśvara said</em>:&mdash;</h2>...
+   Split Content (9) : <p>Dear children, I am delighted at your worship on this holy day. Henceforth this day will be famou...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_10\english.csv
+======================================================================
+⚠️ Found 4 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 10 - The five-fold activities (pa&ntilde;cakṛtya) and the Oṃkāra-man...
+   Split Content (2) : <p><em>Summary</em>: The Evanescence of Śiva after expounding the Five-fold duties (<em>pa&ntilde;ca...
+
+🔴 Row 6 (Split continuation of Row 5):
+   Previous Row (5): <h2><em>Śiva said</em>:&mdash;</h2>...
+   Split Content (6) : <p>I shall tell you the great secret of the five-fold duties, out of compassion for you.</p>...
+
+🔴 Row 32 (Split continuation of Row 31):
+   Previous Row (31): <p>28-31. (The prayer):&mdash;Obeisance to Thee of the bodiless form. Obeisance ...
+   Split Content (32) : <p>After eulogising the preceptor in verses Brahmā and Viṣṇu bowed to him.</p>...
+
+🔴 Row 40 (Split continuation of Row 39):
+   Previous Row (39): <p>38-39. The others too shall install the phallic form with Oṃkāra mantra and t...
+   Split Content (40) : <p>Having thus instructed His disciples Śiva vanished there itself.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_11\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 22 (Split continuation of Row 21):
+   Previous Row (21): <p>25-29. The devotee shall install the phallic emblem and it will accord direct...
+   Split Content (22) : <p>Or the devotee need perform the rites from water-offering to food offering alone duly. Or the dev...
+
+🔴 Row 57 (Split continuation of Row 56):
+   Previous Row (56): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (57) : <p>All of you listen faithfully to the account of all holy centres and their traditions.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_12\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 21 | Parsed Range: (3, 3)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 3 after verse 32)
+  Snippet: <p>3 3. The rivers Tāmraparnī and Vegavatī accord Brahmaloka. There are holy centres on th...
+
+Row 22 | Parsed Range: (34, 34)
+  🟡 MISSING VERSE GAP (Missing verses 33 to 33)
+  Snippet: <p>34. In between these rivers there are meritorious holy centres. Intelligent men residin...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_13\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 27 | Parsed Range: (2, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 2 after verse 26)
+  Snippet: <p>2 7. The offering of Arghya in the morning is by lifting both the hands high up; that i...
+
+Row 28 | Parsed Range: (28, 28)
+  🟡 MISSING VERSE GAP (Missing verses 27 to 27)
+  Snippet: <p>28. In the midday the sun is to be viewed through the fingers reciting the mantra presc...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_15\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (5) : <p>The pure house accords normal benefit in the rites of Devayaj&ntilde;a etc.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 49 (Split continuation of Row 48):
+   Previous Row (48): <p>71-75. The great offering of eatables shall be made to Śiva especially in the...
+   Split Content (49) : <p>Rice of the Śālī variety a Bhāra by weight; pepper measuring a prastha; countable articles twelve...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_18\english.csv
+======================================================================
+⚠️ Found 4 split/unnumbered continuation row(s):
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (5) : <p>I shall explain bondage, liberation and the means of liberation. Please listen attentively.</p>...
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <h2><em>The sages said</em>.&mdash;</h2>...
+   Split Content (27) : <p>O excellent one of good rites, please explain the rules governing worship of Śiva in the phallic ...
+
+🔴 Row 29 (Split continuation of Row 28):
+   Previous Row (28): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (29) : <p>I shall explain, O brahmins, the procedure of the worship of the phallic form, please listen. The...
+
+🔴 Row 52 (Split continuation of Row 51):
+   Previous Row (51): <p>54. A ritualist shall perform all the worship in a Vessel.</p>...
+   Split Content (52) : <p>At the conclusion of Abhiṣeka (ceremonial bath) the Naivedya consisting of cooked rice of the Śāl...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1-2. O Sūta, Sūta, be long-lived. Thou art a blessed devotee of Śiva. The gre...
+   Split Content (4) : <p>Now speak about the greatness of Earthen phallic image of Śiva which is far superior to all other...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_20\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 20 - Worshipping an earthen phallic image by chanting Vedic mantras<...
+   Split Content (2) : <p><em>Summary</em>: The mode of worshipping an earthen phallic image by chanting Vedic mantras.</p>...
+
+🔴 Row 42 (Split continuation of Row 41):
+   Previous Row (41): <p>40. The phallic image shall be prepared with the Aghora mantra. The Āhvāna (i...
+   Split Content (42) : <p>4 l. The phallic image of Hara shall be fixed to the pedestal with the Īśāna mantra. The intellig...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 43 | Parsed Range: (42, 42)
+  🟡 MISSING VERSE GAP (Missing verses 41 to 41)
+  Snippet: <p>42. With the five-syllabled mantra or any other mantra taught by the preceptor the inte...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_21\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1-2. O Sūta, O Sūta the fortunate, disciple of Vyāsa, obeisance be to Thee. T...
+   Split Content (4) : <h1><em>Sūta said</em>:&mdash;</h1>...
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <p>11. A person desirous of sweeping off his foes&mdash;a thousand; desirous of ...
+   Split Content (14) : <p>I 2. A person desirous of freeing himself from fetters&mdash;a thousand five hundred. If there is...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 15 | Parsed Range: (13, 13)
+  🟡 MISSING VERSE GAP (Missing verses 12 to 12)
+  Snippet: <p>13. If there is danger from thieves, robbers etc.&mdash;two hundred; if there is the ev...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>6. If in a family Śiva&rsquo;s Naivedya becomes popular with the members, tha...
+   Split Content (10) : <p><em>7</em>. When Śiva&rsquo;s Naivedya is offered it shall be accepted with pleasure and humility...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 11 | Parsed Range: (8, 8)
+  🟡 MISSING VERSE GAP (Missing verses 7 to 7)
+  Snippet: <p>8. If any one who is offered Śiva&rsquo;s Naivedya delays taking it immediately, thinki...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\01\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 88 (Split continuation of Row 87):
+   Previous Row (87): <p>98-102. The thirty-two places are:&mdash;head, forehead, two ears, two eyes, ...
+   Split Content (88) : <p>Or the devotee shall apply the Tripuṇḍra in sixteen parts of the body.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_02\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 62 (Split continuation of Row 61):
+   Previous Row (61): <p>53-55. Unaffected by passion and highly intelligent by nature how can you be ...
+   Split Content (62) : <p>On hearing words like these, the great sage laughed within himself but spoke to Viṣṇu humbly.</p>...
+
+🔴 Row 64 (Split continuation of Row 63):
+   Previous Row (63): <h2><em>Nārada said</em>:&mdash;</h2>...
+   Split Content (64) : <p>&ldquo;O lord, what can Kāma do to me if you remain favourable to me?&rdquo;</p>...
+
+🔴 Row 65 (Split continuation of Row 64):
+   Previous Row (64): <p>&ldquo;O lord, what can Kāma do to me if you remain favourable to me?&rdquo;<...
+   Split Content (65) : <p>Saying so, the sage who had paid a casual visit bowed to Viṣṇu and left.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1-2. Sūta, O blessed Sūta, the disciple of Vyāsa, our obeisance to thee. It i...
+   Split Content (4) : <p>Now tell us in detail what Viṣṇu did after Nārada had left the place? And where did Nārada go?</p...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <h2><em>Viṣṇu said</em>:&mdash;</h2>...
+   Split Content (27) : <p>&ldquo;Do not be sorry too much. Undoubtedly you are my true devotee.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_07\english.csv
+======================================================================
+⚠️ Found 4 split/unnumbered continuation row(s):
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <p>13. O sage, I climbed up to the lotus by the stalk.</p>...
+   Split Content (14) : <p>But the upper part of the lotus I could not reach. I was disappointed.</p>...
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <h2><em>Viṣṇu said</em>:&mdash;</h2>...
+   Split Content (34) : <p>&ldquo;I know you as the creator of the world. For the sake of creation and support you are desce...
+
+🔴 Row 43 (Split continuation of Row 42):
+   Previous Row (42): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (43) : <p>On hearing these words, I, proud of being Brahmā, became angry. Being deluded by illusion in a th...
+
+🔴 Row 53 (Split continuation of Row 52):
+   Previous Row (52): <p>52. &ldquo;O lord of subjects, with the speed of the wind you will please go ...
+   Split Content (53) : <h2><em>Brahmā continues the story</em>:&mdash;</h2>...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 47 | Parsed Range: (4, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 4 after verse 46)
+  Snippet: <p>4 7. Meanwhile a phallic image appeared before us in order to enlighten us and to settl...
+
+Row 48 | Parsed Range: (48, 48)
+  🟡 MISSING VERSE GAP (Missing verses 47 to 47)
+  Snippet: <p>48. It had no beginning, middle or end. It had neither decrease nor increase. It was as...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_09\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 37 (Split continuation of Row 36):
+   Previous Row (36): <p>30. A great form similar to this, O Brahmā, shall become manifest in the worl...
+   Split Content (37) : <p>3 I. His capacity will never he less, since He will be my own part and parcel. He is I. I am he. ...
+
+🔴 Row 43 (Split continuation of Row 42):
+   Previous Row (42): <p>36. Just as the difference of clay and the various objects made of it is not ...
+   Split Content (43) : <p>The presence of the material cause in the effect can be cited as an example.</p>...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 38 | Parsed Range: (32, 32)
+  🟡 MISSING VERSE GAP (Missing verses 31 to 31)
+  Snippet: <p>32. As heat etc. in water and other things due to the contact of fire is not permanent ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_13\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 55 (Split continuation of Row 54):
+   Previous Row (54): <p>77-83. O Śiva, whatever I have done by way of worship etc. with or without su...
+   Split Content (55) : <p>O sages, thus I have entirely explained the mode of worshipping Śiva that confers worldly pleasur...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_18\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 25 (Split continuation of Row 24):
+   Previous Row (24): <h2><em>Yamagaṇas said</em>:&mdash;</h2>...
+   Split Content (25) : <p>&ldquo;O Gaṇas, this is a wicked brahmin who has broken the traditions and conventions of his fam...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\01\ch_20\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 18 (Split continuation of Row 17):
+   Previous Row (17): <p>15-16. Viṣṭambha and Candratāpana each with eight crores, the leader of Gaṇas...
+   Split Content (18) : <p>I 7. Kuṇḍin, Vāha and the auspicious Parvataka with twelve crores each, Kāla, Kālaka and Mahākāla...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 19 | Parsed Range: (18, 18)
+  🟡 MISSING VERSE GAP (Missing verses 17 to 17)
+  Snippet: <p>18. Agnika with a hundred crores, Abhimukha with a crore, Ādityamūrdhā and Dhanāvaha ea...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_06\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 66 (Split continuation of Row 65):
+   Previous Row (65): <p>62. O Hermitess, these things have been ordained by me for my own end. O fort...
+   Split Content (66) : <p>Thus after instructing her for her welfare the lord vanished from the scene.</p>...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 31 | Parsed Range: (2, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 2 after verse 26)
+  Snippet: <p>2 7. Being thus eulogised and having heard her words Śiva favourably disposed to the de...
+
+Row 32 | Parsed Range: (28, 29)
+  🟡 MISSING VERSE GAP (Missing verses 27 to 27)
+  Snippet: <p>28-29. Her body originally clad in barks of trees and deer-hide had by this time been c...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_09\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 29 (Split continuation of Row 28):
+   Previous Row (28): <p>27. In spite of all these, no cause of deflection from steadiness was seen in...
+   Split Content (29) : <p>28 On seeing these and realising His ideal conception I am averse to any further attempt at delud...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 30 | Parsed Range: (29, 29)
+  🟡 MISSING VERSE GAP (Missing verses 28 to 28)
+  Snippet: <p>29. When he finally eschews Samādhi we cannot even stand in His presence, within sight....
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <p>22. Brahmā is the cause of creation, Viṣṇu is sustainer.</p>...
+   Split Content (27) : <p>I shall be the cause of dissolution in the form of Rudra, a Saguṇa form.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (12) : <p>On hearing these words of Viṣṇu, lord Śiva laughed. The omniscient lord told the slayer of Madhu,...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 13 | Parsed Range: (9, 9)
+  🟡 MISSING VERSE GAP (Missing verses 8 to 8)
+  Snippet: <p>9. O great sage, after this, Viṣṇu returned to his abode. He kept the incident quite se...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_26\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 23 (Split continuation of Row 22):
+   Previous Row (22): <h2><em>Dakṣa said</em>:&mdash;</h2>...
+   Split Content (23) : <p>May all these brahmins and devas listen. May all of you deem him worthy of being killed by me.</p...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_27\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 46 (Split continuation of Row 45):
+   Previous Row (45): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (46) : <p>46 On hearing those words, Dadhīci spoke aloud within the hearing of devas and sages. His words w...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 48 | Parsed Range: (47, 47)
+  🟡 MISSING VERSE GAP (Missing verses 46 to 46)
+  Snippet: <p>47. This sacrifice has become &ldquo;Non-sacrifice&rdquo; without the presence of Śiva....
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_28\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>17. &ldquo;O slender-waisted lady, why did you come here in the council-chamb...
+   Split Content (20) : <h2><em>Brahmā continues the story</em>&mdash;</h2>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_30\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): Slokas (Verses)...
+   Split Content (1) : <h1 class="h2 pt-2">Chapter 30 - Satī’s casting off of her body and the subsequent disorder</h1>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_37\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 56 (Split continuation of Row 55):
+   Previous Row (55): <p>56. Svadhā, Svāhā, Dakṣiṇā Mantras and Tantras, all those who were there were...
+   Split Content (56) : <p>57 The Gaṇas furiously showered filth and rubbish on the sacrificial fire. The heroic Gaṇas made ...
+
+🔴 Row 67 (Split continuation of Row 66):
+   Previous Row (66): <p>67. The hero who had accomplished his duties went to Kailāsa quickly like the...
+   Split Content (67) : <p>68 On seeing Vīrabhadra who had fulfilled his task, lord Śiva was pleased and he made him the pre...
+
+⚠️ Found 4 verse sequence issue(s):
+
+Row 57 | Parsed Range: (58, 58)
+  🟡 MISSING VERSE GAP (Missing verses 57 to 57)
+  Snippet: <p>58. After coming to know that Dakṣa had hidden himself behind the altar due to his frig...
+
+Row 64 | Parsed Range: (95, 95)
+  🟡 MISSING VERSE GAP (Missing verses 65 to 94)
+  Snippet: <p>95. He was surrounded by heroic glory. Then a divine shower of flowers originating from...
+
+Row 65 | Parsed Range: (66, 66)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 66 after verse 95)
+  Snippet: <p>66. Cool breezes blew gently fragrant and pleasing. Divine drums sounded simultaneously...
+
+Row 66 | Parsed Range: (67, 67)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 67 after verse 95)
+  Snippet: <p>67. The hero who had accomplished his duties went to Kailāsa quickly like the sun who q...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\02\ch_38\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>13. The Vedas say clearly that the king consists of all devas. Hence, O sage,...
+   Split Content (21) : <p>14 Hence a king is nobler than a brahmin. Take the example of Cyavana. Hence I am not to be disre...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 23 | Parsed Range: (15, 15)
+  🟡 MISSING VERSE GAP (Missing verses 14 to 14)
+  Snippet: <p>15. On hearing that opinion of Kṣuva, O excellent sage, which went contrary to Vedas an...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 1 - The marriage of Himācala</h1>...
+   Split Content (2) : <p><em>Note</em>: Himavat or Himācala is represented in two forms (1) the mobile and (2) immobile. T...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <p>20. On being disrespected by her father, Satī remembered her vow, abandoned h...
+   Split Content (27) : <p>21-22 O Himācala, this story is well known in the world. You too know it. If this takes place it ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 29 | Parsed Range: (23, 23)
+  🟡 MISSING VERSE GAP (Missing verses 21 to 22)
+  Snippet: <p>23. On hearing these words of Viṣṇu and others the delighted lord Himācala said&mdash;&...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_05\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 50 | Parsed Range: (3, 8)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 3 after verse 37)
+  Snippet: <p>3 8. May hundred heroic sons be born to you. One of them very strong will be born at fi...
+
+Row 51 | Parsed Range: (39, 39)
+  🟡 MISSING VERSE GAP (Missing verses 38 to 38)
+  Snippet: <p>39. I shall be born as your daughter since I am delighted by your devotion. Since I hav...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_06\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 31 (Split continuation of Row 30):
+   Previous Row (30): <p>27. The earth consisting of forests, villages and oceans was very auspicious....
+   Split Content (31) : <p>28 O excellent sage, diverse winds gentle to the touch blew; good men rejoiced and bad people bec...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 32 | Parsed Range: (29, 29)
+  🟡 MISSING VERSE GAP (Missing verses 28 to 28)
+  Snippet: <p>29. The gods stood in the sky and sounded big drums. A shower of flowers fell. Excellen...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <p>8. All the citizens there, both men and women, rejoiced much. There were grea...
+   Split Content (11) : <p>9 Auspicious songs were sung. The dancing girls exhibited their saltatorial skill. The lord of mo...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 12 | Parsed Range: (10, 10)
+  🟡 MISSING VERSE GAP (Missing verses 9 to 9)
+  Snippet: <p>10. Himavat came to the outer gate of the palace and joined the festivities. With a del...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_08\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 44 (Split continuation of Row 43):
+   Previous Row (43): <p>36. It is heard that the great God abhors all attachments. He has perfect sel...
+   Split Content (44) : <p>penance and is out of reach of even the Gods.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>17. O lord of gods, the Vedas and the sacred lore do</p>...
+   Split Content (17) : <p>not know you entirely. Your greatness is beyond the sphere of words and minds, inexpressible by m...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_13\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>6. On hearing these words of Pārvatī, the great lord engaged in the causation...
+   Split Content (10) : <p>The <em>great lord said</em>:&mdash;</p>...
+
+🔴 Row 61 (Split continuation of Row 60):
+   Previous Row (60): <p>47. Sometimes she stayed in the house of the moon-crescent lord, pure and hol...
+   Split Content (61) : <p>48-49 In the course of his penance sometimes the lord of the goblins thought about her as free fr...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 62 | Parsed Range: (50, 50)
+  🟡 MISSING VERSE GAP (Missing verses 48 to 49)
+  Snippet: <p>50. On seeing her with perfect control over her sense-organs and engrossed in serving H...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_15\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <p>8. O great brahmin, the misty haloes around the sun and the moon in the grip ...
+   Split Content (11) : <p>9 At that time terrifying sounds that resembled those of the chariot issued forth from cracks and...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 12 | Parsed Range: (10, 10)
+  🟡 MISSING VERSE GAP (Missing verses 9 to 9)
+  Snippet: <p>10. Within villages, inauspicious vixens howled hideously vomitting fires; as it were, ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_16\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 16 - Brahmā consoles the gods</h1>...
+   Split Content (2) : <p><em>Summary</em>: Brahmā consoles the gods harassed and frightened by the demon Tāraka.</p>...
+
+🔴 Row 51 (Split continuation of Row 50):
+   Previous Row (50): <p>43. On hearing my words, the gods bowed to me and went to Indra&rsquo;s abode...
+   Split Content (51) : <p>44, After reaching there and consulting one another, the gods in a body lovingly told Indra.</p>...
+
+⚠️ Found 4 verse sequence issue(s):
+
+Row 32 | Parsed Range: (2, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 2 after verse 26)
+  Snippet: <p>2 7. O best of gods, you carry out the remedy I am suggesting. By the grace of lord Śiv...
+
+Row 33 | Parsed Range: (28, 28)
+  🟡 MISSING VERSE GAP (Missing verses 27 to 27)
+  Snippet: <p>28. Satī, the daughter of Dakṣa, formerly cast off her body. She is now born of Menakā&...
+
+Row 42 | Parsed Range: (24, 24)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 24 after verse 36)
+  Snippet: <p>24. For the similarity of idea and verbal expression, cp. Kalidasa&rsquo;s Kumāra.</p>...
+
+Row 53 | Parsed Range: (45, 45)
+  🟡 MISSING VERSE GAP (Missing verses 44 to 44)
+  Snippet: <p>45. &ldquo;O lord, you should carry out the suggestions of Brahmā and see that Śiva is ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_17\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>10. Who can be dearer than the person from whom</p>...
+   Split Content (16) : <p>one derives benefit? Hence you, my greatest friend, must carry out my task.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_18\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 38 (Split continuation of Row 37):
+   Previous Row (37): <p>34. Whatever is graceful and sweet in the creation has been incorporated here...
+   Split Content (38) : <p>35 How blessed is this Pārvatī of mysteriously wonderful features. There is no other woman equal ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 39 | Parsed Range: (36, 36)
+  🟡 MISSING VERSE GAP (Missing verses 35 to 35)
+  Snippet: <p>36. She is a storehouse of the finest beauty. She has wondrous beautiful limbs. She is ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_19\english.csv
+======================================================================
+⚠️ Found 1 verse sequence issue(s):
+
+Row 59 | Parsed Range: (25, 25)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 25 after verse 45)
+  Snippet: <p>25. This town, associated with Lord Kṛṣṇa, is situated in Kathiawar.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 40 (Split continuation of Row 39):
+   Previous Row (39): <p>28. Bowing to her parents with joy, Pārvatī remember</p>...
+   Split Content (40) : <p>ed Śiva and set out for performing penance along with her maids.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>12. Then Viṣṇu, the great devotee and benefactor of</p>...
+   Split Content (20) : <p>the gods mentioned the matter of great importance of the gods as mentioned by me (before).</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_27\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>9. &ldquo;O excellent brahmin, why do you go? Stay</p>...
+   Split Content (16) : <p>and tender me wholesome advice&rdquo;. When she said thus, the staff-bearing brahmin stopped and ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_28\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>12. Viṣṇu attains and retains his Viṣṇuhood by His favour. Similarly Brahmā h...
+   Split Content (15) : <p>13-14 Whenever the lord of the gods wants to see Śiva he has to propitiate His gate-keepers, the ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 16 | Parsed Range: (15, 15)
+  🟡 MISSING VERSE GAP (Missing verses 13 to 14)
+  Snippet: <p>15. What is it that cannot befall one who serves the auspicious-featured Śiva. What is ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_30\english.csv
+======================================================================
+⚠️ Found 4 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1. O Brahmā, O dear, of great fortune, you have the real vision and are bless...
+   Split Content (4) : <p><em>2</em>. When Śiva returned to His mountain, O intelligent one, what did Pārvatī allauspicious...
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>5. On hearing that Pārvatī was returning, Menā and Himavat excessively deligh...
+   Split Content (9) : <p>6-7 The chief priest, the citizens, the maids, the kinsmen and also others accompanied them. All ...
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <p>29. He blew the horn and played on the drum in very sweet tunes. Everything w...
+   Split Content (27) : <p>30 All the citizens men, women, children and old folks assembled there to witness the performance...
+
+🔴 Row 29 (Split continuation of Row 28):
+   Previous Row (28): <p>31. O sage, on hearing the sweet songs, and seeing the delightful dance, the ...
+   Split Content (29) : <p>32-35 Pārvatī became unconscious. She saw Śiva&rsquo;s handsome form, bearing trident and other s...
+
+⚠️ Found 4 verse sequence issue(s):
+
+Row 6 | Parsed Range: (3, 3)
+  🟡 MISSING VERSE GAP (Missing verses 2 to 2)
+  Snippet: <p>3. O dear, listen with pleasure to what happened thereafter when Śiva returned to His p...
+
+Row 10 | Parsed Range: (8, 12)
+  🟡 MISSING VERSE GAP (Missing verses 6 to 7)
+  Snippet: <p>8-12. The auspicious waterpot was placed in the main highway decorated with sandal past...
+
+Row 28 | Parsed Range: (31, 31)
+  🟡 MISSING VERSE GAP (Missing verses 30 to 30)
+  Snippet: <p>31. O sage, on hearing the sweet songs, and seeing the delightful dance, the people ent...
+
+Row 30 | Parsed Range: (36, 36)
+  🟡 MISSING VERSE GAP (Missing verses 32 to 35)
+  Snippet: <p>36. And He had granted her the auspicious boon with pleasure and vanished. The mendican...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_33\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 56 (Split continuation of Row 55):
+   Previous Row (55): <p>41. The primordial nature, born of Śiva, maintains threefold forms in the cre...
+   Split Content (56) : <p>42 Vāṇī, the deity presiding over the activity of speech, is born of his mouth; Lakṣmī, in the fo...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 57 | Parsed Range: (43, 43)
+  🟡 MISSING VERSE GAP (Missing verses 42 to 42)
+  Snippet: <p>43. Pārvatī manifested herself in the splendours of the gods. After killing all the dem...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_35\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <h2><em>Vasiṣṭha said</em>:&mdash;</h2>...
+   Split Content (10) : <p>5-6 The very old and venerable sage Pippalāda returned to his hermitage along with his wife Padmā...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 11 | Parsed Range: (7, 7)
+  🟡 MISSING VERSE GAP (Missing verses 5 to 6)
+  Snippet: <p>7. The daughter of Anaraṇya served the sage devoutly physically, mentally and verbally ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_37\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): Slokas (Verses)...
+   Split Content (1) : <p><em>Summary</em>: The letter of betrothal is despatched, the requisites for the celebration are g...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_38\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <p>2. The roads were watered and swept clean. At every door, stumps of plantain ...
+   Split Content (5) : <p><em>3</em>. The courtyard was embellished with plantain trees tied with silken cords. There were ...
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>6. He called Viśvakarman and requested him to erect a large and spacious dais...
+   Split Content (9) : <p><em>7</em>. The dais, O celestial sage, was ten thousand Yojanas wide. It was wonderfully constru...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 6 | Parsed Range: (4, 4)
+  🟡 MISSING VERSE GAP (Missing verses 3 to 3)
+  Snippet: <p>4. Festoons with garlands of jasmine flowers shone, everywhere. Other articles of auspi...
+
+Row 10 | Parsed Range: (8, 8)
+  🟡 MISSING VERSE GAP (Missing verses 7 to 7)
+  Snippet: <p>8. All the mobile and immobile objects of the world were represented there with realist...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_44\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 102 (Split continuation of Row 101):
+   Previous Row (101): <p>82. This Śiva is the supreme being, the bestower of</p>...
+   Split Content (102) : <p>supreme happiness. Out of His sympathy He has granted His vision to your daughter.</p>...
+
+🔴 Row 105 (Split continuation of Row 104):
+   Previous Row (104): <p>83. Then Menā said to them after sobbing frequently&mdash;&ldquo;My riches ar...
+   Split Content (105) : <p>84 Why are you Siddhas collectively attempting to make her exquisite beauty futile?&rdquo;</p>...
+
+🔴 Row 116 (Split continuation of Row 115):
+   Previous Row (115): <p>94. Who has described His form? By whom can it be</p>...
+   Split Content (116) : <p>known? Even Brahmā and I were not able to gauge him.</p>...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 106 | Parsed Range: (85, 85)
+  🟡 MISSING VERSE GAP (Missing verses 84 to 84)
+  Snippet: <p>85. When this was mentioned by her I became stunned. All the gods, Siddhas, sages and h...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_47\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 47 - The ceremonious entry of Śiva</h1>...
+   Split Content (2) : <p><em>Summary</em>: The ceremonious entry of Śiva into the inner apartments of the palace of Himava...
+
+🔴 Row 51 (Split continuation of Row 50):
+   Previous Row (50): <p>44-45. O sage, urged by me, the priest carried out</p>...
+   Split Content (51) : <p>the auspicious rites relevant to the context after entering the enclosure where the altar had bee...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_48\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>4. Then the brahmins were requested by Himavat</p>...
+   Split Content (7) : <p>&ldquo;May the rite be formally started after narrating the Tithi etc. The auspicious hour has co...
+
+🔴 Row 25 (Split continuation of Row 24):
+   Previous Row (24): <p>19. He has no Gotra, family or name. He is independent. He is favourably disp...
+   Split Content (25) : <p>His will He assumes bodies taking many names. He is full of attributes.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\03\ch_49\english.csv
+======================================================================
+⚠️ Found 1 verse sequence issue(s):
+
+Row 26 | Parsed Range: (24, 24)
+  🟡 MISSING VERSE GAP (Missing verses 23 to 23)
+  Snippet: <p>24. O great lord of universal form, the manifest, the great principle, the elements, th...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\04\ch_02\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>5. &ldquo;O great God, O lord of gods, O ocean of mercy,</p>...
+   Split Content (9) : <p>O Śiva, you are the immanent soul of all. You know everything.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\04\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 28 (Split continuation of Row 27):
+   Previous Row (27): <p>18-19. At that time he was known as white in colour. Agni went there and seei...
+   Split Content (28) : <p>20 Guha took the spear and ascended the peak. He hit the peak with his spear and the peak fell do...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 29 | Parsed Range: (21, 21)
+  🟡 MISSING VERSE GAP (Missing verses 20 to 20)
+  Snippet: <p>21. Ten thousand billions of heroic demons came there to attack him but were killed on ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\04\ch_04\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 30 | Parsed Range: (11, 11)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 11 after verse 16)
+  Snippet: <p>11. On hearing the words of the gods, Śiva the lord of the gods threatened Dharma and o...
+
+Row 32 | Parsed Range: (18, 18)
+  🟡 MISSING VERSE GAP (Missing verses 17 to 17)
+  Snippet: <p>18. The infallible semen of mine, has not been concealed by the gods. By whom could it ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\04\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>11. My maternal grandfather, the excellent mountain Himavat, will become the ...
+   Split Content (17) : <p>The <em>gods said</em>:&mdash;</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\04\ch_18\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>14. O Brahmin, then with the graceful blessings of</p>...
+   Split Content (16) : <p>Pārvatī, instantly peace reigned upon gods and particularly on the Gaṇas.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\04\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 13 (Split continuation of Row 12):
+   Previous Row (12): <p>9. They thought that the two sons had attained to marriageable age and how be...
+   Split Content (13) : <p>I 0. The sixfaced lord Kārttikeya was their great beloved son. Gaṇeśa too was likewise. Thinking ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 14 | Parsed Range: (11, 11)
+  🟡 MISSING VERSE GAP (Missing verses 10 to 10)
+  Snippet: <p>11. O sage, coming to know of their parents&rsquo; opinion, the sons too were eager to ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_01\english.csv
+======================================================================
+⚠️ Found 4 split/unnumbered continuation row(s):
+
+🔴 Row 83 (Split continuation of Row 82):
+   Previous Row (82): <p>78. O sage, a long time elapsed even as they were engaged in meritorious acti...
+   Split Content (83) : <h2>Notes on the &lsquo;three cities&rsquo; (<em>tripura</em>):</h2>...
+
+🔴 Row 84 (Split continuation of Row 83):
+   Previous Row (83): <h2>Notes on the &lsquo;three cities&rsquo; (<em>tripura</em>):</h2>...
+   Split Content (84) : <p>According to the present version, three Asuras Tāraka, Vidyunmāli and Kamalākṣa performed penance...
+
+🔴 Row 85 (Split continuation of Row 84):
+   Previous Row (84): <p>According to the present version, three Asuras Tāraka, Vidyunmāli and Kamalāk...
+   Split Content (85) : <p>The Chedis adopted the name Tripurī for their capital on the banks of the Narmadā. It is now trac...
+
+🔴 Row 86 (Split continuation of Row 85):
+   Previous Row (85): <p>The Chedis adopted the name Tripurī for their capital on the banks of the Nar...
+   Split Content (86) : <p>The legend of the three cities is as old as the Brāhmaṇa literature. It is said that the Asuras b...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_02\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 41 (Split continuation of Row 40):
+   Previous Row (40): <p>180. Cāṇūra was a wrestler in Kaṃsa&rsquo;s service. He was slain by Kṛṣṇa.</...
+   Split Content (41) : <p>ful, beloved of truth, to the truth. Obeisance to Thee know-able through the truth.</p>...
+
+🔴 Row 53 (Split continuation of Row 52):
+   Previous Row (52): <p>41. Among animals, you are the bull Nandīśvara, O</p>...
+   Split Content (53) : <p>lord Śiva. Among Vedic texts you are in the form of Upaniṣads; Among the sacrificers you are the ...
+
+⚠️ Found 32 verse sequence issue(s):
+
+Row 40 | Parsed Range: (180, 180)
+  🟡 MISSING VERSE GAP (Missing verses 31 to 179)
+  Snippet: <p>180. Cāṇūra was a wrestler in Kaṃsa&rsquo;s service. He was slain by Kṛṣṇa.</p>...
+
+Row 42 | Parsed Range: (31, 31)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 31 after verse 180)
+  Snippet: <p>31. Obeisance to Thee possessed of magic-power, obeisance to the lord of magic; Obeisan...
+
+Row 43 | Parsed Range: (32, 32)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 32 after verse 180)
+  Snippet: <p>32. Obeisance to Thee, O lord, the penance, the bestower of the fruits of penance, obei...
+
+Row 44 | Parsed Range: (33, 33)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 33 after verse 180)
+  Snippet: <p>33. Obeisance to Thee delighted with vedic conduct, to the one fond of praiseworthy con...
+
+Row 45 | Parsed Range: (34, 34)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 34 after verse 180)
+  Snippet: <p>34. O lord, the gods and all others, being excellent, are your excellences. Among the g...
+
+Row 46 | Parsed Range: (35, 35)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 35 after verse 180)
+  Snippet: <p>35. Among the worlds you are Satyaloka. Among the rivers you are the celestial river Ga...
+
+Row 47 | Parsed Range: (36, 36)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 36 after verse 180)
+  Snippet: <p>36. Among the mountains you are the Himālaya mountain. Among the cows you are the Kāmad...
+
+Row 48 | Parsed Range: (37, 37)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 37 after verse 180)
+  Snippet: <p>37. Among the four castes you are the brahmin. O Śiva, among men you are the king. Amon...
+
+Row 49 | Parsed Range: (38, 38)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 38 after verse 180)
+  Snippet: <p>38. Among all stones, you are the crystal, O great god, among the flowers you are the l...
+
+Row 50 | Parsed Range: (39, 39)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 39 after verse 180)
+  Snippet: <p>39. Among all activities you are the speech; among poets you are Bhārgava. Among birds ...
+
+Row 51 | Parsed Range: (40, 40)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 40 after verse 180)
+  Snippet: <p>40. O bull-bannered deity, among rocks you are Śālagrāma; among the forms of worship yo...
+
+Row 52 | Parsed Range: (41, 41)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 41 after verse 180)
+  Snippet: <p>41. Among animals, you are the bull Nandīśvara, O</p>...
+
+Row 54 | Parsed Range: (42, 42)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 42 after verse 180)
+  Snippet: <p>42. Among the burning ones, you are the fire, among the devotees of Śiva, you are Viṣṇu...
+
+Row 55 | Parsed Range: (43, 43)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 43 after verse 180)
+  Snippet: <p>43. Among the Bījamantras you are the Praṇava; among the terrible ones you are poison; ...
+
+Row 56 | Parsed Range: (44, 44)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 44 after verse 180)
+  Snippet: <p>44. Among the sense-organs you are the mind; among the charitable gifts you are the gif...
+
+Row 57 | Parsed Range: (45, 45)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 45 after verse 180)
+  Snippet: <p>45. Among all acquisitions you are the acquisition of sons; among those with velocity y...
+
+Row 58 | Parsed Range: (46, 46)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 46 after verse 180)
+  Snippet: <p>46. Among sacrifices you are the horse-sacrifice. Among the Yugas you are the Kṛta yuga...
+
+Row 59 | Parsed Range: (47, 47)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 47 after verse 180)
+  Snippet: <p>47. Among the seasons you are the spring; among holy occasions you are the Saṃkrama; am...
+
+Row 60 | Parsed Range: (48, 48)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 48 after verse 180)
+  Snippet: <p>48. Among the Yogas you are the Vyatīpāta; among creepers you are the Soma creeper; amo...
+
+Row 61 | Parsed Range: (49, 49)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 49 after verse 180)
+  Snippet: <p>49. Among the pure activities of the aspirant, O great lord, you are Prāṇāyāma; among a...
+
+Row 62 | Parsed Range: (50, 50)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 50 after verse 180)
+  Snippet: <p>50. Among all kindred beings you are Dharma. In all stages of life you are Sannyāsa. Yo...
+
+Row 63 | Parsed Range: (51, 51)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 51 after verse 180)
+  Snippet: <p>51. Among all Ādityas you are Vāsudeva; among the monkeys you are Hanumat; among the sa...
+
+Row 64 | Parsed Range: (52, 52)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 52 after verse 180)
+  Snippet: <p>52. Among the Gandharvas you are Citraratha; among the Vasus you are certainly the fire...
+
+Row 65 | Parsed Range: (53, 53)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 53 after verse 180)
+  Snippet: <p>53. Among all lordly elephants you are Airāvata<sup>3</sup>; among all Siddhas you are ...
+
+Row 66 | Parsed Range: (54, 55)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 54 after verse 180)
+  Snippet: <p>54-55. You are Kāla (Time) among those who calculate; among Asuras you are Bali. O lord...
+
+Row 68 | Parsed Range: (56, 57)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 56 after verse 180)
+  Snippet: <p>56-57. Eulogising thus the bull-bannered, the tridentbearing lord Śiva with various kin...
+
+Row 70 | Parsed Range: (58, 58)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 58 after verse 180)
+  Snippet: <p>58. O lord Śiva, the gods including Indra have been defeated by the Asura accompanied b...
+
+Row 71 | Parsed Range: (59, 59)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 59 after verse 180)
+  Snippet: <p>59. The three worlds have been brought under their sway. The excellent sages and the Si...
+
+Row 72 | Parsed Range: (60, 60)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 60 after verse 180)
+  Snippet: <p>60. The terrible Asuras take the entire share of the sacrificial benefits to themselves...
+
+Row 73 | Parsed Range: (61, 61)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 61 after verse 180)
+  Snippet: <p>61. Definitely the sons of Tāraka cannot be killed by any living being. Hence, O Śiva, ...
+
+Row 74 | Parsed Range: (62, 62)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 62 after verse 180)
+  Snippet: <p>62. Let some policy be laid down for the protection of the universe lest the terrible A...
+
+Row 76 | Parsed Range: (63, 63)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 63 after verse 180)
+  Snippet: <p>63. On hearing these words of Indra and other heaven-dwellers who were expatiating on t...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (5) : <p><em>2</em>. After offering him initiation, the ascetic Arihan served by his disciples, Nārada and...
+
+⚠️ Found 3 verse sequence issue(s):
+
+Row 7 | Parsed Range: (3, 3)
+  🟡 MISSING VERSE GAP (Missing verses 2 to 2)
+  Snippet: <p>3. O ruler of the Asuras, listen to my statement, pregnant with wisdom. It is the essen...
+
+Row 31 | Parsed Range: (2, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 2 after verse 26)
+  Snippet: <p>2 7. The twelve organs of senses are the five organs of activity and the five organs of...
+
+Row 32 | Parsed Range: (28, 28)
+  🟡 MISSING VERSE GAP (Missing verses 27 to 27)
+  Snippet: <p>28. Living beings have heaven and hell here itself and not anywhere else. Happiness is ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_10\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 43 (Split continuation of Row 42):
+   Previous Row (42): <p>44. Those who worshipped Śiva along with their family attained Gaṇapati&rsquo...
+   Split Content (43) : <h2>Notes on the Burning of Tripura:</h2>...
+
+🔴 Row 44 (Split continuation of Row 43):
+   Previous Row (43): <h2>Notes on the Burning of Tripura:</h2>...
+   Split Content (44) : <p>The Purāṇas accord different versions of the burning of Tripurī. The present version is a regular...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_11\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 39 (Split continuation of Row 38):
+   Previous Row (38): <p>31. After saying this, lord Viṣṇu the most excellent of the great devotees of...
+   Split Content (39) : <p>The <em>gods said</em>:&mdash;</p>...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 49 | Parsed Range: (31, 38)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 31 after verse 36)
+  Snippet: <p>31-38. O lord, if you are pleased, if the boon is to be granted by you to us, O lord of...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_15\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 41 (Split continuation of Row 40):
+   Previous Row (40): <p>31. He gave shelter to the mountains who were terribly afraid of me. Others t...
+   Split Content (41) : <p>32 It was due to this that I took away his jewels. Those who oppose me can never remain happy. I ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 42 | Parsed Range: (33, 33)
+  🟡 MISSING VERSE GAP (Missing verses 32 to 32)
+  Snippet: <p>33. Formerly the Asura Śaṅkha the son of the ocean was stupid enough to be inimical to ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_17\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>14. O sage, gods, Asuras, sages and the Siddhas were</p>...
+   Split Content (17) : <p>very much surprised at the terrible mutual clash between the two.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_19\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 27 | Parsed Range: (2, 3)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 2 after verse 22)
+  Snippet: <p>2 3. The son of the ocean Jalandhara became the lord of all Daityas and now he is the l...
+
+Row 28 | Parsed Range: (24, 24)
+  🟡 MISSING VERSE GAP (Missing verses 23 to 23)
+  Snippet: <p>24. That powerful king of Daityas is like the god of death to the gods. Listen to what ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_29\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>7. With the consent of the Asuras, the preceptor Śukra made him the emperor o...
+   Split Content (10) : <p>others with jubilant festivities.</p>...
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <p>27. The oceans yielded plenty of gems and jewels. Abundant flowers and fruits...
+   Split Content (30) : <p>flowed with pure crystal clear water.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_34\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 23 | Parsed Range: (1, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 1 after verse 16)
+  Snippet: <p>1 7. His general was an expert in the science and technique of warfare. He was the best...
+
+Row 24 | Parsed Range: (18, 18)
+  🟡 MISSING VERSE GAP (Missing verses 17 to 17)
+  Snippet: <p>18. He had three hundred thousand Akṣauhiṇī armies. He performed the rites of auspiciou...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_36\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <p>33. Everywhere groups of heroes were seen in that</p>...
+   Split Content (34) : <p>terrible war roaring like lions with various weapons displayed in their hands.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_39\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 13 | Parsed Range: (1, 0)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 1 after verse 9)
+  Snippet: <p>1 0. Mahārudra, the odd-eyed Śiva, the punisher of the wicked and the goal of the good,...
+
+Row 14 | Parsed Range: (11, 11)
+  🟡 MISSING VERSE GAP (Missing verses 10 to 10)
+  Snippet: <p>11. Taking up his sharp sword and the leather shield the Dānava rushed at the sacred bu...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_40\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>16-17. &ldquo;O lord of Dānavas, give me the alms for</p>...
+   Split Content (19) : <p>which I have come to you. I shall not say openly what I wish to have from you who are favourably ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_43\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <h2><em>Prahlāda said</em>:&mdash;</h2>...
+   Split Content (34) : <p>&ldquo;Is it the universe-formed lord who has come as the majestic lion?</p>...
+
+🔴 Row 37 (Split continuation of Row 36):
+   Previous Row (36): <p>31. Since there is none to fight him in all the three worlds, it is better th...
+   Split Content (37) : <p>On hearing the words of his son, the wicked Asura said &ldquo;O son, why are you so afraid?&rdquo...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_44\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>12. Nor shall I meet with death from Nārāyaṇa, the enemy of leading Daityas, ...
+   Split Content (16) : <p>On hearing these words of the demon, Brahmā became suspicious. He told him:&mdash;</p>...
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>14. Good men like you should rather avoid too long a life&rdquo;.</p>...
+   Split Content (20) : <p>On hearing these pleading words from Brahmā, the Daitya said again.</p>...
+
+🔴 Row 73 (Split continuation of Row 72):
+   Previous Row (72): <p>60. O Rākṣasa, whatever appeals to you at present you can take&rdquo;.</p>...
+   Split Content (73) : <p>After saying this, Śiva who wore the garb of an ascetic stopped, and stood quiet.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_45\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <h2><em>Śiva said</em>:&mdash;</h2>...
+   Split Content (12) : <p>&ldquo;O beloved, formerly I had performed the great Vrata called Mahāpāśupata.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_46\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 22 (Split continuation of Row 21):
+   Previous Row (21): <p>306. A particular kind of Sacred verse intended to be sung is called Sāmaveda...
+   Split Content (22) : <p>of the Dānavas was shattered and destroyed. Everything was suppressed by the gods. When the battl...
+
+🔴 Row 29 (Split continuation of Row 28):
+   Previous Row (28): <p>34. When fresh army cropped up from the army slain by Śiva from the hot drops...
+   Split Content (29) : <p>lord of Pramathas and intelligently assumed a fierce form of a hideous woman employing his Yogic ...
+
+⚠️ Found 14 verse sequence issue(s):
+
+Row 21 | Parsed Range: (306, 306)
+  🟡 MISSING VERSE GAP (Missing verses 29 to 305)
+  Snippet: <p>306. A particular kind of Sacred verse intended to be sung is called Sāmaveda.</p>...
+
+Row 23 | Parsed Range: (29, 29)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 29 after verse 306)
+  Snippet: <p>29. When the exhausted army entered the nether worlds, nooks and corners in hills and s...
+
+Row 24 | Parsed Range: (30, 30)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 30 after verse 306)
+  Snippet: <p>30. Since he had secured boons he did not leave the battle ground although his body had...
+
+Row 25 | Parsed Range: (31, 31)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 31 after verse 306)
+  Snippet: <p>31. Fighting steadily by means of various weapons that fell on the battle ground, they ...
+
+Row 26 | Parsed Range: (32, 32)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 32 after verse 306)
+  Snippet: <p>32. In order to conquer Śiva, the Daitya of as great strength and intelligence as the d...
+
+Row 27 | Parsed Range: (33, 33)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 33 after verse 306)
+  Snippet: <p>33. Many Andhakas originating from the exudations of his body, with hideous faces resem...
+
+Row 28 | Parsed Range: (34, 34)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 34 after verse 306)
+  Snippet: <p>34. When fresh army cropped up from the army slain by Śiva from the hot drops of blood ...
+
+Row 30 | Parsed Range: (35, 35)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 35 after verse 306)
+  Snippet: <p>35. It had a very terrible and hard aspect characterised by several arms. Angrily the l...
+
+Row 31 | Parsed Range: (36, 36)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 36 after verse 306)
+  Snippet: <p>36. The goddess stood high in the battle field covering up the entire ground by her pai...
+
+Row 32 | Parsed Range: (37, 37)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 37 after verse 306)
+  Snippet: <p>37. Then, only the chief of the Daityas was left. Still he fought on with Śiva, heating...
+
+Row 33 | Parsed Range: (38, 38)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 38 after verse 306)
+  Snippet: <p>38. Afterwards he was quietened by the lord of Pramathas. His heart was pierced. He was...
+
+Row 34 | Parsed Range: (39, 39)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 39 after verse 306)
+  Snippet: <p>39. Shattered and scattered like flakes of snow in the rays of the sun, his limbs were ...
+
+Row 35 | Parsed Range: (40, 40)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 40 after verse 306)
+  Snippet: <p>40. The lords of the worlds worshipped the lord of Pramathas, at the end of war, with d...
+
+Row 36 | Parsed Range: (41, 41)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 41 after verse 306)
+  Snippet: <p>41. Śiva spent the time rejoicingly in the mountain cavern in their company. Honouring ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_49\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (3) : <p>Om obeisance to you, the lord of the gods, the one bowed to by the gods and Asuras, the great lor...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_50\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (19) : <p>21 On hearing these pleasing words of Śiva, Bhārgava was very much delighted. He was immersed in ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 20 | Parsed Range: (22, 22)
+  🟡 MISSING VERSE GAP (Missing verses 21 to 21)
+  Snippet: <p>22. The brahmin bowed to Śiva with his eyes blooming like a lotus with pleasure and his...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_51\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1-2. O omniscient Sanatkumāra, a wonderfully excellent</p>...
+   Split Content (4) : <p>story has been narrated with love and blessings by you. It is full of Śiva&rsquo;s benediction. I...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\02\05\ch_57\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <p>30. O sage, when the lord of Asuras came there,</p>...
+   Split Content (34) : <p>there was a great tumult among the residents of Ānandavana, They shouted &ldquo;Protect, Protect....
+
+🔴 Row 62 (Split continuation of Row 61):
+   Previous Row (61): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (62) : <p>words, lord Śiva, the storehouse replied to Gajāsura, the son of</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 1 - The five incarnations of the supreme Brahman</h1>...
+   Split Content (2) : <p>I bow to lord Śiva of great bliss and of endles divine sports, who is great and omnipresent, who ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_02\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>17. O son of Brahmā, thus the well known eight forms have been explained to y...
+   Split Content (20) : <h2>Notes on the eight forms of lord Śiva:</h2>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_07\english.csv
+======================================================================
+⚠️ Found 10 verse sequence issue(s):
+
+Row 23 | Parsed Range: (31, 31)
+  🟡 MISSING VERSE GAP (Missing verses 21 to 30)
+  Snippet: <p>31. Then Śiva said to Pārvatī &ldquo;I am going to coronate Nandin and proclaim him as ...
+
+Row 25 | Parsed Range: (22, 22)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 22 after verse 31)
+  Snippet: <p>22. O lord of gods, it behoves you to give that to Nandin. O lord, Śailādi is my most b...
+
+Row 27 | Parsed Range: (23, 23)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 23 after verse 31)
+  Snippet: <p>23. Then Śiva the independent lord, the Supreme deity, the bestower of everything and f...
+
+Row 28 | Parsed Range: (24, 24)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 24 after verse 31)
+  Snippet: <p>24. Even as they were remembered, all the leading Gaṇas of Rudra came there. They were ...
+
+Row 29 | Parsed Range: (25, 25)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 25 after verse 31)
+  Snippet: <p>25. Those leading Gaṇas bowed to lord Śiva and the goddess Pārvatī with joined palms an...
+
+Row 31 | Parsed Range: (26, 26)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 26 after verse 31)
+  Snippet: <p>26. O great lord, the destroyer of Tripuras, why are we called? Please command us, O be...
+
+Row 32 | Parsed Range: (27, 27)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 27 after verse 31)
+  Snippet: <p>27. Shall we dry up the oceans? Shall we kill Yama with his servants? Shall we slay gre...
+
+Row 33 | Parsed Range: (28, 28)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 28 after verse 31)
+  Snippet: <p>28. Shall we bind Indra with all the gods or Viṣṇu with all his Pārṣadas and bring them...
+
+Row 34 | Parsed Range: (29, 29)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 29 after verse 31)
+  Snippet: <p>29. To whom shall we cause great and terrible distress at your behest? O lord, who is t...
+
+Row 36 | Parsed Range: (30, 30)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 30 after verse 31)
+  Snippet: <p>30. On hearing these heroic words of the Gaṇas the great lord spoke after praising them...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_08\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>7. O great sage, in this connection I shall narrate an</p>...
+   Split Content (10) : <p>ancient legend. O dear one, listen to it with faith. It is the great cause of perfect knowledge.<...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 64 | Parsed Range: (4, 6)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 4 after verse 45)
+  Snippet: <p>4-6. O Kālabhairava, at the outset this lotus-born Brahmā shall be chastised by you. Yo...
+
+Row 65 | Parsed Range: (47, 47)
+  🟡 MISSING VERSE GAP (Missing verses 46 to 46)
+  Snippet: <p>47. You are called Bhairava because you are of terrifying features and you are capable ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_11\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 59 (Split continuation of Row 58):
+   Previous Row (58): <p>51. You were burnt by the fire of the Trident, O Viṣvaksena. At the time of D...
+   Split Content (59) : <p>52, O Viṣṇu, the fifth head of Brahmā your son, which was cut, has not been set right even now. I...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 60 | Parsed Range: (53, 53)
+  🟡 MISSING VERSE GAP (Missing verses 52 to 52)
+  Snippet: <p>53. In a battle you were defeated by Dadhīca along with the gods. How can it be forgott...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_12\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 22 (Split continuation of Row 21):
+   Previous Row (21): <h2><em>Nandīśvara said</em>:&mdash;</h2>...
+   Split Content (22) : <p>21 Thus saying with love to Śiva, the Man-lion turned submissive and bowed to him. Viṣṇu was utte...
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <p>26. Since you annihilate the world, you are called Hara by the learned. Since...
+   Split Content (30) : <p>274 Since you support and hold every thing after dividing your body into eight, O lord, protect u...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 23 | Parsed Range: (22, 22)
+  🟡 MISSING VERSE GAP (Missing verses 21 to 21)
+  Snippet: <p>22. Within a trice Vīrabhadra made his powerful body powerless and dead.</p>...
+
+Row 31 | Parsed Range: (28, 28)
+  🟡 MISSING VERSE GAP (Missing verses 27 to 27)
+  Snippet: <p>28. You are the great Puruṣa, Śiva, lord of all, leader of the gods, the soul of the in...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_13\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 13 (Split continuation of Row 12):
+   Previous Row (12): <p>10. O Lord, still a desire has been lurking in my heart for a long time. It i...
+   Split Content (13) : <h2><em>Viśvānara</em> s<em>aid</em>:&mdash;</h2>...
+
+🔴 Row 22 (Split continuation of Row 21):
+   Previous Row (21): <p>15. On hearing her words that Brahmin of pure rites entered into mystic tranc...
+   Split Content (22) : <p>16 &ldquo;What is this? This lady has wished for an extremely inaccessible thing. It is beyond th...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 23 | Parsed Range: (17, 17)
+  🟡 MISSING VERSE GAP (Missing verses 16 to 16)
+  Snippet: <p>17. It is by Śiva himself stationing himself in her mouth in the form of speech that th...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 45 (Split continuation of Row 44):
+   Previous Row (44): <p>36. O lord, thanks to your grace, alone, knowledge has dawned on us. O Śiva, ...
+   Split Content (45) : <p>37, You alone are the initiator and the withdrawer of all powers. You are lord of all, the great ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 46 | Parsed Range: (38, 38)
+  🟡 MISSING VERSE GAP (Missing verses 37 to 37)
+  Snippet: <p>38. In the form of Yakṣeśvara you have removed our arrogance. With sympathy and kindnes...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_18\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 23 (Split continuation of Row 22):
+   Previous Row (22): <p>19. O lord of gods, I too am much distressed at the misfortune of my sons. O ...
+   Split Content (23) : <p>20 O lord Śiva, the gods and the Yakṣas, born as my sons, have been defeated by the powerful Asur...
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <p>29. By the grace of those Rudras, the gods conquered the Asuras and were rid ...
+   Split Content (33) : <p>30 Even today the great Rudras, identical with Śiva, shine always in the sky for the protection o...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 24 | Parsed Range: (21, 21)
+  🟡 MISSING VERSE GAP (Missing verses 20 to 20)
+  Snippet: <p>21. O lord Śiva, do help the gods always lest the harassment by the Asuras should affli...
+
+Row 34 | Parsed Range: (31, 31)
+  🟡 MISSING VERSE GAP (Missing verses 30 to 30)
+  Snippet: <p>31. Those Rudras favourably disposed towards their devotees took up their residence in ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 22 - Harassment by Viṣṇu&rsquo;s sons</h1>...
+   Split Content (2) : <p><em>Summary</em>: Harassment by Viṣṇu&rsquo;s sons and the story of Śiva&rsquo;s incarnation of t...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_24\english.csv
+======================================================================
+⚠️ Found 1 verse sequence issue(s):
+
+Row 21 | Parsed Range: (16, 16)
+  🟡 MISSING VERSE GAP (Missing verses 15 to 15)
+  Snippet: <p>16. This Asura has been created by Tvaṣṭṛ by means of his penance in order to kill you....
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_26\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 59 (Split continuation of Row 58):
+   Previous Row (58): <p>45. Taking the gemset bangle I had taken the pledge that I shall be the avowe...
+   Split Content (59) : <p>46 This merchant, the avowed Śaivite, died of my activities. Hence I shall enter fire along with ...
+
+⚠️ Found 11 verse sequence issue(s):
+
+Row 33 | Parsed Range: (35, 35)
+  🟡 MISSING VERSE GAP (Missing verses 25 to 34)
+  Snippet: <p>35. O lord, I shall be your wife for three days and carry out all wifely duties. This i...
+
+Row 35 | Parsed Range: (26, 26)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 26 after verse 35)
+  Snippet: <p>26. After repeating this for three times, with the moon and the sun as witnesses, Mahān...
+
+Row 36 | Parsed Range: (27, 27)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 27 after verse 35)
+  Snippet: <p>27. After giving her the gemset bangle that merchant handed to her a gemset phallic ima...
+
+Row 38 | Parsed Range: (28, 28)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 28 after verse 35)
+  Snippet: <p>28. O my beloved, this gemset phallic image is very dear to me. It shall be well-preser...
+
+Row 40 | Parsed Range: (29, 29)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 29 after verse 35)
+  Snippet: <p>29. She said &ldquo;Let it be so&rdquo; and took the gemset phallic image. She kept it ...
+
+Row 41 | Parsed Range: (30, 30)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 30 after verse 35)
+  Snippet: <p>30. During the night she had her sexual union with the merchant who behaved like a libe...
+
+Row 42 | Parsed Range: (31, 31)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 31 after verse 35)
+  Snippet: <p>31. O sage, then at midnight, at the will of the lordly merchant, suddenly there arose ...
+
+Row 43 | Parsed Range: (32, 32)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 32 after verse 35)
+  Snippet: <p>32. The blazing fire helped by a forceful wind enveloped the dancing platform all of a ...
+
+Row 44 | Parsed Range: (33, 33)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 33 after verse 35)
+  Snippet: <p>33. When the platform was burning the prostitute got up suddenly in her bewilderment an...
+
+Row 45 | Parsed Range: (34, 34)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 34 after verse 35)
+  Snippet: <p>34. Freed from the bondage the monkey in its fear ran here and there along with the coc...
+
+Row 60 | Parsed Range: (47, 47)
+  🟡 MISSING VERSE GAP (Missing verses 46 to 46)
+  Snippet: <p>47. Truthfiil preceptors have ordained that a wife shall observe her duty. If I do like...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_27\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 27 - The incarnation of Dvijeśvara</h1>...
+   Split Content (2) : <p><em>Note</em>: This Chapter has a close resemblance with the second canto of Kālidāsa&rsquo;s Rag...
+
+🔴 Row 47 (Split continuation of Row 46):
+   Previous Row (46): <p>38. I can give all my assets to the extent of the earth, my kingdom, horses a...
+   Split Content (47) : <p>39 The sin that accrues by indulging in sexual intercourse with another man&rsquo;s wife cannot b...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 49 | Parsed Range: (40, 40)
+  🟡 MISSING VERSE GAP (Missing verses 39 to 39)
+  Snippet: <p>40. Let it be the terrible sin of the slaughter of a brahmin; let it be the sin of sipp...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_29\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 62 (Split continuation of Row 61):
+   Previous Row (61): <p>46. The pure-souled Śrāddhadeva too with head bent</p>...
+   Split Content (62) : <p>and palms joined eulogised the lord and requested him to forgive his fault.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_32\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <h2><em>Indra said</em>:&mdash;</h2>...
+   Split Content (27) : <p><em>Note</em>: The dialogue between Indra and Upamanyu is reminiscent of the talk between Pārvatī...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_33\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 33 - Śiva&rsquo;s incarnation as the student-ascetic (Jaṭila)</h1>...
+   Split Content (2) : <p><em>Nandīśvara said</em>:&mdash;</p>...
+
+🔴 Row 58 (Split continuation of Row 57):
+   Previous Row (57): <p>46-47. On hearing her words, the brahmin began to say something; but by that ...
+   Split Content (58) : <h2><em>Pārvatī</em> s<em>aid</em>:&mdash;</h2>...
+
+🔴 Row 78 (Split continuation of Row 77):
+   Previous Row (77): <h2><em>Nandīśvara said</em>:&mdash;</h2>...
+   Split Content (78) : <p>Thus requested by Pārvatī Śiva took her hand duly and went to Kailāsa along with her. On getting ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_34\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2><em>Nandīśvara said</em>:&mdash;</h2>...
+   Split Content (3) : <p>I. O omniscient Sanatkumāra, listen to the incarnation of lord Śiva, the great soul, as Sunartaka...
+
+⚠️ Found 7 verse sequence issue(s):
+
+Row 11 | Parsed Range: (0, 0)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 0 after verse 8)
+  Snippet: <p>0. O lord Śiva, it behoves to marry me with due rites for the fulfilment of the task of...
+
+Row 12 | Parsed Range: (10, 10)
+  🟡 MISSING VERSE GAP (Missing verses 9 to 9)
+  Snippet: <p>10. O lord, you are without aberrations. Please fulfil my desires. You are favourably d...
+
+Row 36 | Parsed Range: (38, 38)
+  🟡 MISSING VERSE GAP (Missing verses 33 to 37)
+  Snippet: <p>38. Then the leading mendicant of good sports begged for Durgā as his alms, of her (Men...
+
+Row 37 | Parsed Range: (34, 34)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 34 after verse 38)
+  Snippet: <p>34. Then lord Śiva in the form of the mendicant, urged by Durgā&rsquo;s words vanished ...
+
+Row 38 | Parsed Range: (35, 35)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 35 after verse 38)
+  Snippet: <p>35. Perfect knowledge then dawned on Menā and the lord of mountains. They thought: &ldq...
+
+Row 39 | Parsed Range: (36, 36)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 36 after verse 38)
+  Snippet: <p>36. Our Pārvatī who has performed a hard penance shall be given to him&rdquo;, thinking...
+
+Row 40 | Parsed Range: (37, 37)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 37 after verse 38)
+  Snippet: <p>37. Thence after performing great sports, Śiva performed the marriage rites duly with P...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_36\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 22 (Split continuation of Row 21):
+   Previous Row (21): <p>19. O sage, although the great hero Aśvatthāman was</p>...
+   Split Content (22) : <p>born of a part of lord Śiva. Still due to his devotion to the Kauravas, he exhibited his full vig...
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <h2><em>Nandīśvara said</em>:&mdash;</h2>...
+   Split Content (30) : <p>25 On hearing the words of Arjuna, Kṛṣṇa the most excellent among the devotees of Śiva meditated ...
+
+🔴 Row 37 (Split continuation of Row 36):
+   Previous Row (36): <p>30. O great sage, although the Brahmaśiras missile</p>...
+   Split Content (37) : <p>never goes futile and cannot be counteracted, it subsided before the splendour of the Śaiva missi...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 32 | Parsed Range: (26, 26)
+  🟡 MISSING VERSE GAP (Missing verses 25 to 25)
+  Snippet: <p>26. Know this to be the most powerful Brāhma missile of Aśvatthāman. There is no other ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\03\ch_40\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <p>25. I shall readily give you the arrows. Certainly I have many. If a king doc...
+   Split Content (30) : <p>26 Then O forester, how can I simply give away the arrow, if what I am desirous of doing is not b...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 31 | Parsed Range: (27, 28)
+  🟡 MISSING VERSE GAP (Missing verses 26 to 26)
+  Snippet: <p>27-28. Why should there be a long talk? Let your master come and fight with me. Defeati...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>17-18. She joyously served the sage constantly. Making a beautiful clay image...
+   Split Content (20) : <p>service. After serving Śiva repeatedly she eulogised him with devotion.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 35 (Split continuation of Row 34):
+   Previous Row (34): <p>25. Then, thanks to the blessings of Śiva, an intelligent idea struck her min...
+   Split Content (35) : <p>&ldquo;O lord, please hear me. I shall tell you what has happened.&rdquo;</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 28 (Split continuation of Row 27):
+   Previous Row (27): <p>23. O brahmins, after going there, they bowed to and eulogised Brahma. They n...
+   Split Content (28) : <p>2f. Brahmā heard them. He realised that they had been deluded by Śiva&rsquo;s Māyā. After bowing ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 30 | Parsed Range: (25, 25)
+  🟡 MISSING VERSE GAP (Missing verses 24 to 24)
+  Snippet: <p>25. O brahmins, you though wise do such despicable things. Then why complain against th...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_13\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (27) : <p>Who is a Devalaka? What is his function? O intelligent one, mention that for the guidance of the ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_14\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 70 | Parsed Range: (38, 38)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 38 after verse 57)
+  Snippet: <p>38. He who makes pilgrimage to this place attains the fruits of whatever he might have ...
+
+Row 71 | Parsed Range: (59, 60)
+  🟡 MISSING VERSE GAP (Missing verses 58 to 58)
+  Snippet: <p>59-60. Thus seeing the fruit of that high order, the sages and the gods joyously bowed ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_17\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 36 (Split continuation of Row 35):
+   Previous Row (35): <p>33. The doorway was made of gold. There were excellent festoons at the doorst...
+   Split Content (36) : <p>3ṭ. The temple was equipped with many golden potlike domes, shining jewel-bedecked columns and th...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 37 | Parsed Range: (35, 35)
+  🟡 MISSING VERSE GAP (Missing verses 34 to 34)
+  Snippet: <p>35. In the midst, the cowherd&rsquo;s son saw a jewel-bedecked liṅga of Śiva, the store...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_19\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 28 | Parsed Range: (23, 23)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 23 after verse 24)
+  Snippet: <p>23. Although he is the lord of the universe still he is particularly the lord of Bharat...
+
+Row 29 | Parsed Range: (26, 26)
+  🟡 MISSING VERSE GAP (Missing verses 25 to 25)
+  Snippet: <p>26. O excellent sages, I have narrated to you what you have asked for. On hearing this ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_20\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 20 - The greatness of the Jyotirliṅga Bhīmeśvara</h1>...
+   Split Content (2) : <p><em>Summary</em>: The greatness of the Jyotirliṅga Bhīmeśvara and the havoc perpetrated by Bhīmās...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_23\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 53 (Split continuation of Row 52):
+   Previous Row (52): <p>49. It is certain that the Prārabdha is not destroyed except through enjoymen...
+   Split Content (53) : <p>50 If a man visits Kāśī first and commits sin afterwards, the seed of that action takes him again...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 54 | Parsed Range: (51, 51)
+  🟡 MISSING VERSE GAP (Missing verses 50 to 50)
+  Snippet: <p>51. Then his sins are reduced to ashes. Hence a man shall resort to Kāśī. That certainl...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 24 - The greatness of Gautama</h1>...
+   Split Content (2) : <p><em>Summary</em>: The greatness of Gautama in the context of the greatness of Tryambakeśvara.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_28\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 24 (Split continuation of Row 23):
+   Previous Row (23): <p>19-21. He was distressed by its heavy weight. He placed it on the ground. The...
+   Split Content (24) : <p>This Jyotirliṅga is the most excellent of all. By its sight or worship it destroys sins. It is di...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_30\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (33) : <p>26 On hearing these words of Pārvatī, lord Śiva was delighted in his mind and spoke these words.<...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 35 | Parsed Range: (27, 27)
+  🟡 MISSING VERSE GAP (Missing verses 26 to 26)
+  Snippet: <p>27. O beloved, if you say so, please listen to my words. I will stay in this forest wit...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_31\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <p>10. Reaching there, Rāma the favourite of Śiva stationed himself on the shore...
+   Split Content (12) : <p>11-13, &ldquo;Alas where has Jānakī gone? When will she meet me. The ocean is very deep. The army...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 13 | Parsed Range: (14, 14)
+  🟡 MISSING VERSE GAP (Missing verses 11 to 13)
+  Snippet: <p>14. Then Rāma the excellent devotee of Śiva, desirous of water, lovingly spoke to his b...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_35\english.csv
+======================================================================
+⚠️ Found 10 split/unnumbered continuation row(s):
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <h2><em>Viṣṇu said</em>:&mdash;</h2>...
+   Split Content (5) : <p>2-131 Śiva (pure), Hara (destroyer), Mṛḍa (gracious), Rudra (terrible), Puṣkara(nourisher), Puṣpa...
+
+🔴 Row 6 (Split continuation of Row 5):
+   Previous Row (5): <p>2-131 Śiva (pure), Hara (destroyer), Mṛḍa (gracious), Rudra (terrible), Puṣka...
+   Split Content (6) : <p>Viśālākṣa (wide-eyed), Mṛgavyādha (hunter of animal), Sureśa (lord of gods), Sūryatāpana (scorche...
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>Viśālākṣa (wide-eyed), Mṛgavyādha (hunter of animal), Sureśa (lord of gods), ...
+   Split Content (7) : <p>Sulabha (easy of access), Suvrata (of good rites), Śūra (heroic), Vāṅmayaikanidhi (treasure store...
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>Sulabha (easy of access), Suvrata (of good rites), Śūra (heroic), Vāṅmayaikan...
+   Split Content (8) : <p>Saṃvatsarakara (one causing the year), Mantra Pratyaya (credence), Sarvatāpana (scorcher of all),...
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>Saṃvatsarakara (one causing the year), Mantra Pratyaya (credence), Sarvatāpan...
+   Split Content (9) : <p>Anemi (having no restricting rims), Iṣṭanemi, Mukunda (bestower of salvation or identical with lo...
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>Anemi (having no restricting rims), Iṣṭanemi, Mukunda (bestower of salvation ...
+   Split Content (10) : <p>Aghora (non-terrible), Anuttara (unsurpassed), Yaj&ntilde;a (sacrifice), Śreṣṭha (excellent), Niḥ...
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <p>Aghora (non-terrible), Anuttara (unsurpassed), Yaj&ntilde;a (sacrifice), Śreṣ...
+   Split Content (11) : <p>Niṣkaṇṭaka (free from thorns), Kṛtānanda (taking delight), Nirvyāja (free from false pretexts), V...
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <p>Niṣkaṇṭaka (free from thorns), Kṛtānanda (taking delight), Nirvyāja (free fro...
+   Split Content (12) : <p>Muṇḍin (having clean-shaven head), Kuṇḍalin (having earrings), Amṛtyu (deathless), Sarvadṛk (seei...
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>133. O brahmins, then the enthusiastic Śiva performed something wonderful and...
+   Split Content (15) : <h2>Notes on the Śiva-sahasranāma:</h2>...
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <h2>Notes on the Śiva-sahasranāma:</h2>...
+   Split Content (16) : <p>In fact the text records more than one thousand names. Some are identical in form: śivālayaḥ śivā...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 13 | Parsed Range: (132, 132)
+  🟡 MISSING VERSE GAP (Missing verses 2 to 131)
+  Snippet: <p>132. Thus Viṣṇu eulogised Śiva with the thousand names. Śiva was prayed to and worshipp...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_36\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>16. Viṣṇu purified himself and accepted it facing the north. After making obe...
+   Split Content (21) : <h5><em>Viṣṇu said</em>:&mdash;</h5>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_37\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 23 (Split continuation of Row 22):
+   Previous Row (22): <p>19. Bāṇa is a great follower of Śiva. So also the sons of Hiraṇyākṣa. O dear ...
+   Split Content (23) : <p>20 Śeṣa, Vāsuki, Takṣaka and many other great serpents are devotees of Śiva. Garuḍa and other bir...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 24 | Parsed Range: (21, 21)
+  🟡 MISSING VERSE GAP (Missing verses 20 to 20)
+  Snippet: <p>21. O great sage, the two gods, the Sun and the Moon who started two lines of kings on ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\04\ch_38\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 85 | Parsed Range: (66, 66)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 66 after verse 85)
+  Snippet: <p>66. Certainly for the performance of this Vrata, I, Śiva, the destroyer of all miseries...
+
+Row 87 | Parsed Range: (87, 87)
+  🟡 MISSING VERSE GAP (Missing verses 86 to 86)
+  Snippet: <p>87. After hearing these beneficial and wonderful words of Śiva, Viṣṇu returned to his a...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_01\english.csv
+======================================================================
+⚠️ Found 1 verse sequence issue(s):
+
+Row 64 | Parsed Range: (57, 57)
+  🟡 MISSING VERSE GAP (Missing verses 56 to 56)
+  Snippet: <p>57. After granting me the boons and saying this, lord Śiva of the brilliance of a crore...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <h2><em>Upamanyu said</em>:&mdash;</h2>...
+   Split Content (8) : <p>4 O Puruṣottama, there is no doubt that ere long you will see lord Śiva, thanks to his own grace....
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 9 | Parsed Range: (5, 5)
+  🟡 MISSING VERSE GAP (Missing verses 4 to 4)
+  Snippet: <p>5. In the sixteenth month you will get good boons from lord Śiva and his wife. O Kṛṣṇa,...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 5 - The Great Sins (mahā-pāpa)</h1>...
+   Split Content (2) : <p><em>Note</em>: Manu differs in regard to the number of sins (<em>pāpa</em>) arising from the misu...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_06\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 6 - Different types of sins (pāpa)</h1>...
+   Split Content (2) : <p><em>Note</em>: For the comparison of the Principal and subsidiary sins as mentioned in the previo...
+
+🔴 Row 6 (Split continuation of Row 5):
+   Previous Row (5): <p>2. Debauchery, miserliness, malice towards good men illicit approach to anoth...
+   Split Content (6) : <p>3 Parivitti (the elder brother who is not married but who has allowed the younger brother to marr...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 7 | Parsed Range: (4, 4)
+  🟡 MISSING VERSE GAP (Missing verses 3 to 3)
+  Snippet: <p>4. The spoilation of flowers and trees around the temple of Śiva; even the slightest in...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_07\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 48 (Split continuation of Row 47):
+   Previous Row (47): <p>53. He appears ready to swallow even great mountains. He appears to vomit fir...
+   Split Content (48) : <p>5ṭ. Black in colour resembling collyrium he is very terrifying. Mārī, Ugramahāmārī and Kālarātri ...
+
+🔴 Row 49 (Split continuation of Row 48):
+   Previous Row (48): <p>5ṭ. Black in colour resembling collyrium he is very terrifying. Mārī, Ugramah...
+   Split Content (49) : <p>55 Various ailments, leprosies of various forms are terrible. They hold Śaktis, tridents, goads, ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 50 | Parsed Range: (56, 56)
+  🟡 MISSING VERSE GAP (Missing verses 54 to 55)
+  Snippet: <p>56. All of them are heroic and terrible. They have curved snouts. They bear shafts, qui...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_08\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 8 - Description of the Hell (naraka)</h1>...
+   Split Content (2) : <p><em>Note</em>: The chapter mentions several hells (<em>naraka</em>) and their cells to each of wh...
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <p>22. The next eight cells are Trikoṇā, Pa&ntilde;cakoṇā, Sūdīrghā, Akhilārtidā...
+   Split Content (27) : <p>23 Thus the cells of Naraka have been mentioned to you by their names. Each of these is meant for...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 28 | Parsed Range: (24, 24)
+  🟡 MISSING VERSE GAP (Missing verses 23 to 23)
+  Snippet: <p>24. For each of these cells there are five officers in charge. Now I shall mention the ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_10\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <p>15. The organs wherewith men defile or harass women are respectively tortured...
+   Split Content (14) : <p>16 If they had looked at other women with greedy gaping eyes, red hot needles are stuck in their ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 15 | Parsed Range: (17, 17)
+  🟡 MISSING VERSE GAP (Missing verses 16 to 16)
+  Snippet: <p>17. O excellent sage, it is true, true. There is no doubt. Tortures of Yama by acids et...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>6. If there is plenty of water in the water-base dug by a man, during summer,...
+   Split Content (9) : <p>7&lsquo;I shall mention the benefits of lakes dug by men. He who has a lake to his credit is hono...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 10 | Parsed Range: (8, 8)
+  🟡 MISSING VERSE GAP (Missing verses 7 to 7)
+  Snippet: <p>8. Or the digging of lakes is conducive to the advent of fame and attainment of friends...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_17\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 45 (Split continuation of Row 44):
+   Previous Row (44): <p>44. In all these seven Varṣas, the rivers are well arranged. They have sands ...
+   Split Content (45) : <h2>Notes on the seven continents (dvīpa):</h2>...
+
+🔴 Row 46 (Split continuation of Row 45):
+   Previous Row (45): <h2>Notes on the seven continents (dvīpa):</h2>...
+   Split Content (46) : <p>ŚP. mentions seven continents. Their identif&igrave;cation is uncertain. Scholars hold different ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_21\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>20-21. Those who know the principles, who understand sacrifices and sacred ri...
+   Split Content (19) : <p>22-24, The hero who offers battle subduing the army of the enemy attains virtue, wealth and fame....
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 20 | Parsed Range: (25, 25)
+  🟡 MISSING VERSE GAP (Missing verses 22 to 24)
+  Snippet: <p>25. He who dies in the war-front without surrendering his weapons attains heaven from w...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_23\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 23 - The description of infancy (bālya)</h1>...
+   Split Content (2) : <p><em>Summary</em>: The description of infancy and other stages and the impurity of the body.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_29\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <p>24. When the beings created did not increase he dichotomised his body and bec...
+   Split Content (27) : <p>25 With his greatness he persuaded the universe and created the people. Viṣṇu created the Virāṭ (...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 28 | Parsed Range: (26, 26)
+  🟡 MISSING VERSE GAP (Missing verses 25 to 25)
+  Snippet: <p>26. Know that he was another Manu that began the age. That lord, Puruṣa, created all th...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_30\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 13 (Split continuation of Row 12):
+   Previous Row (12): <p>10. Lord Brahmā, being delighted gave him a stable position as his own, facin...
+   Split Content (13) : <p>11-12 Two sons, Puṣṭi and Dhānya were born of Dhruva. Puṣṭi begot of Samutthā five pious sons viz...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 14 | Parsed Range: (13, 16)
+  🟡 MISSING VERSE GAP (Missing verses 11 to 12)
+  Snippet: <p>13-16. Cākṣuṣa Manu begot Varuṇa of Puṣkariṇī. O excellent sage, from Manu of great pro...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_32\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 18 (Split continuation of Row 17):
+   Previous Row (17): <p>23. The story of Bāṇa has already been heard by you. In the battle Kṛṣṇa was ...
+   Split Content (18) : <p>24-25 Hiraṇyākṣa&rsquo;s five sons were strong and learned. They were Kukura, Śakuni, Bhūta Santā...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 19 | Parsed Range: (26, 28)
+  🟡 MISSING VERSE GAP (Missing verses 24 to 25)
+  Snippet: <p>26-28. Danu&rsquo;s sons were hundred in number and were of severe exploits. Ayomukha, ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_33\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 29 (Split continuation of Row 28):
+   Previous Row (28): <p>30. He crowned the indefatigable son of Parjanya the patriarch, Hiraṇyaroman,...
+   Split Content (29) : <p>31 O Śaunaka, the details of Pṛthu the son of Vena have been narrated to you. This base is glorif...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_35\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 38 (Split continuation of Row 37):
+   Previous Row (37): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (38) : <p>On hearing this, the sun was appeased.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_36\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 64 (Split continuation of Row 63):
+   Previous Row (63): <p>61. Kavi, son of Manu, was highly intelligent due to Śiva&rsquo;s blessings. ...
+   Split Content (64) : <h2>Notes on the nine sons of Vaivasvata Manu:</h2>...
+
+🔴 Row 65 (Split continuation of Row 64):
+   Previous Row (64): <h2>Notes on the nine sons of Vaivasvata Manu:</h2>...
+   Split Content (65) : <p>There is no consensus of opinion in the Purāṇas about the names. Pargiter who collated the Purani...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_40\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 18 (Split continuation of Row 17):
+   Previous Row (17): <p>12. O Yudhiṣṭhira, those who perform Śrāddha rites with pleasure delight ever...
+   Split Content (18) : <p>J3-15. Men desirous of benefits perform Śrāddhas, keeping in view, the father, the grandfather an...
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <h2><em>Yudhiṣṭhira said</em>:&mdash;</h2>...
+   Split Content (20) : <p>16: Some manes are in the heaven and some are in the hell. The fruit accruing to the living being...
+
+🔴 Row 54 (Split continuation of Row 53):
+   Previous Row (53): <p>48-50. They were asked to perform expiatory rites. O sinless one, the gods we...
+   Split Content (54) : <p>51 Hence what has been mentioned by the sons, the most excellent of the perfectly wise shall be f...
+
+⚠️ Found 2 verse sequence issue(s):
+
+Row 21 | Parsed Range: (17, 17)
+  🟡 MISSING VERSE GAP (Missing verses 13 to 16)
+  Snippet: <p>17. How do the Śrāddhas go to the manes? How those in the hell can derive the benefit?<...
+
+Row 55 | Parsed Range: (52, 52)
+  🟡 MISSING VERSE GAP (Missing verses 51 to 51)
+  Snippet: <p>52. O dwellers of heaven, let the gods and the Pitṛs worship one another with great del...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_42\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>11. Pa&ntilde;cāla was conversant with many Ṛk mantras. He became a preceptor...
+   Split Content (15) : <p>12 On seeing his son Brahmadatta free from sin, the king crowned him in kingdom and attained the ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 16 | Parsed Range: (13, 13)
+  🟡 MISSING VERSE GAP (Missing verses 12 to 12)
+  Snippet: <p>13. Pa&ntilde;cāla and Puṇḍarīka established their sons in the house and went to forest...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_45\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 45 - The incarnation of Mahākālikā</h1>...
+   Split Content (2) : <p><em>Note</em>: For the close similarity of the form and contents of the present and succeeding ch...
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <p>33-35. In the meantime a certain Vaiśya came there. The king asked him&mdash;...
+   Split Content (34) : <p>On hearing the sweet words of the king, the leading Vaiśya Samādhi shed tears. He spoke to the ki...
+
+🔴 Row 46 (Split continuation of Row 45):
+   Previous Row (45): <p>45. This Vaiśya has been expelled from his house by his people, wife and othe...
+   Split Content (46) : <h2><em>Sivapurāṇa</em></h2>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_47\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>16. She addressed the gods&mdash;&ldquo;All of you stay here fearlessly. I sh...
+   Split Content (20) : <p>I am independent&rdquo;.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\05\ch_49\english.csv
+======================================================================
+⚠️ Found 5 verse sequence issue(s):
+
+Row 36 | Parsed Range: (38, 38)
+  🟡 MISSING VERSE GAP (Missing verses 33 to 37)
+  Snippet: <p>38. Due to my power alone the demons are conquered by you. Without knowing me of this n...
+
+Row 37 | Parsed Range: (34, 34)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 34 after verse 38)
+  Snippet: <p>34. Just as a magician makes the wooden doll of a woman dance so also I the goddess mak...
+
+Row 38 | Parsed Range: (35, 35)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 35 after verse 38)
+  Snippet: <p>35. Being afraid of me the wind blows, the fire-god burns and the guardians of the quar...
+
+Row 39 | Parsed Range: (36, 36)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 36 after verse 38)
+  Snippet: <p>36. Independent that I am, I sportively bestow victory on the gods sometimes and on the...
+
+Row 40 | Parsed Range: (37, 37)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 37 after verse 38)
+  Snippet: <p>37. It is my form that is described in the Vedas as indestructible, the great abode, th...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_03\english.csv
+======================================================================
+⚠️ Found 1 verse sequence issue(s):
+
+Row 49 | Parsed Range: (64, 64)
+  🟡 MISSING VERSE GAP (Missing verses 62 to 63)
+  Snippet: <p>64. The disciple shall bow prostrate before the precr-tor on the ground twelve times. H...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>20-22. In the north-cast square of the lotus another lotus shall be drawn wit...
+   Split Content (15) : <p>[? note for one of verses 7-22 ?]: The mystical syllables as mentioned in the verses indicate the...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_06\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 21 | Parsed Range: (43, 43)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 43 after verse 44)
+  Snippet: <p>43. After worshipping lord Śiva with bent head and fivefold services he shall bow to th...
+
+Row 22 | Parsed Range: (46, 47)
+  🟡 MISSING VERSE GAP (Missing verses 45 to 45)
+  Snippet: <p>46-47. He shall meditate upon the Praṇava consisting of five letters including the Bind...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 18 (Split continuation of Row 17):
+   Previous Row (17): <p>38-40. From the Ādhāra Śakti to the scat of the sacred lore the devotee shall...
+   Split Content (18) : <p>This is the procedure everywhere. As before, the five Brahmans shall be conceived in the idol in ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_09\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (34) : <p>50-52- After saying this, the excellent sage of great penance, the son of Parāśara, worshipped an...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 35 | Parsed Range: (53, 53)
+  🟡 MISSING VERSE GAP (Missing verses 50 to 52)
+  Snippet: <p>53. This was mentioned to Guha by the goddess who mentioned it to Nandin. Lord Nandin m...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_15\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>19. This wheel of dissolution has Vidyārūpa Kalā. This healthy region is pres...
+   Split Content (20) : <p>20 This region is attainable by those who desire the propitiation of Rudras. O sage, it yields th...
+
+🔴 Row 31 (Split continuation of Row 30):
+   Previous Row (30): <p>30. Brahmā was born of a thousandth part of Viṣṇu.</p>...
+   Split Content (31) : <p>He has the face of Sadyojāta and is the presiding deity of the principle of earth.</p>...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 21 | Parsed Range: (21, 21)
+  🟡 MISSING VERSE GAP (Missing verses 20 to 20)
+  Snippet: <p>21. Viṣṇu was born from a thousandth part of Rudra. In the form of Vāmadeva wheel he is...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2><em>Subrahmaṇya said</em>:&mdash;</h2>...
+   Split Content (3) : <p>Now the great statements: perfect knowledge is Brahman; I am Brahman; thou art that. This Ātman i...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\06\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <p>11. They look charming with their faces resembling the full moon and brillian...
+   Split Content (11) : <p>12 Their swinging ear-rings tickle their cheeks. They have plump and elevated breasts. They are c...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 12 | Parsed Range: (13, 13)
+  🟡 MISSING VERSE GAP (Missing verses 12 to 12)
+  Snippet: <p>13. Their waists are slender and buttocks large. They wear divine red garments. The rub...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 1 - Origin of the sacred lore</h1>...
+   Split Content (2) : <p><em>Note</em>: Most of the verses of this chapter are identical on form and content with those of...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_03\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>20. He is an expert in solidifying the unsevered cosmic</p>...
+   Split Content (20) : <p>eggs. He is the ocean of benevolence, prowess, majesty and sweetness.</p>...
+
+🔴 Row 45 (Split continuation of Row 44):
+   Previous Row (44): <p>45. Hence there is no stipulated mode or order in the attainment of liberatio...
+   Split Content (45) : <p>with the knowledge and emotion and attained by the grace of the lord.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>4-5. Delighted by his austere penance his father lord Śiva, foremost among th...
+   Split Content (9) : <p>G. On seeing his father, Brahmā bowed to him and secured perfect knowledge along with Gāyatrī.</p...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 10 | Parsed Range: (7, 7)
+  🟡 MISSING VERSE GAP (Missing verses 6 to 6)
+  Snippet: <p>7. Having acquired knowledge, the four-faced lord created all living beings&mdash;the m...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_06\english.csv
+======================================================================
+⚠️ Found 9 verse sequence issue(s):
+
+Row 6 | Parsed Range: (13, 13)
+  🟡 MISSING VERSE GAP (Missing verses 3 to 12)
+  Snippet: <p>13. In his absence how could the universe have been created, since Pāśa is insentient a...
+
+Row 7 | Parsed Range: (4, 4)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 4 after verse 13)
+  Snippet: <p>4. Without an intelligent cause nothing has ever been seen anywhere created by Pradhāna...
+
+Row 8 | Parsed Range: (5, 5)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 5 after verse 13)
+  Snippet: <p>5. Since the universe is an effect possessing parts it is dependent on a creator. And c...
+
+Row 9 | Parsed Range: (6, 6)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 6 after verse 13)
+  Snippet: <p>6. Creativity of Paśu without the knowledge of creation like the going of a blind man i...
+
+Row 10 | Parsed Range: (7, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 7 after verse 13)
+  Snippet: <p>7. Realising distinction between him and himself and being gratified after resorting to...
+
+Row 11 | Parsed Range: (8, 8)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 8 after verse 13)
+  Snippet: <p>8. The sphere of Pati is really greater than and beyond that of Paśu and Pāśa. The know...
+
+Row 12 | Parsed Range: (9, 9)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 9 after verse 13)
+  Snippet: <p>9. Lord the redeemer of the universe sustains the universe of Kṣara and Akṣara, the two...
+
+Row 13 | Parsed Range: (10, 10)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 10 after verse 13)
+  Snippet: <p>10. The enjoyer, the enjoyed and the instigator&mdash;the three alone shall be distingu...
+
+Row 14 | Parsed Range: (11, 12)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 11 after verse 13)
+  Snippet: <p>11-12. The man endowed with truth and penance sets in his Ātman the great Ātman like th...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_10\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>15-16. The secondary creation took place simultaneously. The five sense-organ...
+   Split Content (17) : <p>17' Since it is the cause of Bhūtas it is called Bhūtādi. From this is born the Śabdatanmātra, fr...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 18 | Parsed Range: (18, 18)
+  🟡 MISSING VERSE GAP (Missing verses 17 to 17)
+  Snippet: <p>18. From the ether the Sparśatanmātra, from it Vāyu, from Vāyu the Rūpatanmātra, from t...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_11\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>4. The Manvantaras and Kalpas have no beginning or</p>...
+   Split Content (8) : <p>end. Being unknowable they cannot be narrated separately.</p>...
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>5. Even if they be knowable, of what avail is it to</p>...
+   Split Content (10) : <p>you to know them. Hence I do not attempt to narrate them separately.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_12\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>7. These animals had light within but not without.</p>...
+   Split Content (9) : <p>They had the form of animals and went a wrong path.</p>...
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <p>33. O Brahmā, preceptor of the worlds, do not be afraid. Your vital breaths h...
+   Split Content (30) : <p>34-35 On hearing these words as if heard in dreams Brahmā glanced at Rudra, his eyes shedding lus...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 31 | Parsed Range: (36, 36)
+  🟡 MISSING VERSE GAP (Missing verses 34 to 35)
+  Snippet: <p>36. &ldquo;Indeed by your very vision you delight my mind. Who are you, sir, standing i...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_14\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2><em>Vāyu said</em>:&mdash;</h2>...
+   Split Content (3) : <p>I. I shall expain the reasons for the manifestation of Rudra in every Kalpa whereby the broken se...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_15\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 21 | Parsed Range: (23, 23)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 23 after verse 24)
+  Snippet: <p>23. Be victorious, O goddess affording protection to those who resort to you. Be victor...
+
+Row 22 | Parsed Range: (26, 26)
+  🟡 MISSING VERSE GAP (Missing verses 25 to 25)
+  Snippet: <p>26. Be victorious, O lord enhancing prosperity, prowess and heroism. Be victorious, O l...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>7. It is the goddess whom scholars of the Vedas call</p>...
+   Split Content (9) : <p>the greatest Śakti endowed with the divine qualities of Śiva the great soul.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_17\english.csv
+======================================================================
+⚠️ Found 2 verse sequence issue(s):
+
+Row 6 | Parsed Range: (3, 3)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 3 after verse 4)
+  Snippet: <p>3. Śatarūpā bore him two sons, Priyavrata and Uttānapāda.</p>...
+
+Row 7 | Parsed Range: (6, 6)
+  🟡 MISSING VERSE GAP (Missing verses 5 to 5)
+  Snippet: <p>6. She bore two daughters of great fortune from whom emanates all creation. They were Ā...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (3) : <p>I. How did the lord create obstacles before the wicked Dakṣa who performed a sacrifice for virtue...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_22\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 49 (Split continuation of Row 48):
+   Previous Row (48): <p>53-54. With their limbs shattered by the arrows, joints</p>...
+   Split Content (49) : <p>severed and eyes dislocated they fell dead on the ground. Some desired to enter the earth and som...
+
+🔴 Row 54 (Split continuation of Row 53):
+   Previous Row (53): <p>59. The ground of the sacrificial rites drenched with the blood shone like th...
+   Split Content (54) : <p>60 When the extremely terrible battle had concluded the earth quaked as though frightened terribl...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 55 | Parsed Range: (61, 61)
+  🟡 MISSING VERSE GAP (Missing verses 60 to 60)
+  Snippet: <p>61. The ocean was agitated with the surging waves, foams and whirlpools. Meteors fell p...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_25\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>19. The gods submitted to him how Śumbha and Niśumbha inflicted pain on them ...
+   Split Content (17) : <p>2G-21. On hearing the distress of the gods Brahma grew merciful. He knew how Daityas could be des...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 18 | Parsed Range: (22, 23)
+  🟡 MISSING VERSE GAP (Missing verses 20 to 21)
+  Snippet: <p>22-23. Brahmā saw the goddess, the mother of this universe, the mother of Trinity, the ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_29\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>5-8. The subtle one is in the form of thought, the one beyond is devoid of th...
+   Split Content (8) : <p>is called Kuṇḍalinī Māyā and Śuddhādhvaparamā. This Śakti is ramified into six paths. The three p...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_30\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 38 (Split continuation of Row 37):
+   Previous Row (37): <p>38-40. The lord himself came there along with the goddess to sec his son. He ...
+   Split Content (38) : <p>41-45 He asked the goddess to feed him on her breast-milk. He blessed him saying &ldquo;your inca...
+
+🔴 Row 39 (Split continuation of Row 38):
+   Previous Row (38): <p>41-45 He asked the goddess to feed him on her breast-milk. He blessed him say...
+   Split Content (39) : <p>46-47 Rāvaṇa, king of Rākṣasas, arrogant of his prowess lifted up Kailāsa with his long arms. Śiv...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 40 | Parsed Range: (48, 48)
+  🟡 MISSING VERSE GAP (Missing verses 41 to 47)
+  Snippet: <p>48. For a brahmin boy whose life came to an end and who sought refuge in him, the lord ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_33\english.csv
+======================================================================
+⚠️ Found 3 split/unnumbered continuation row(s):
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <p>39-40. The leaf of the Bilva tree shall never be excluded. A gold lotus is gr...
+   Split Content (30) : <p>41-43 The Arghya with eight materials of worship as constituents is highly commended. So also the...
+
+🔴 Row 59 (Split continuation of Row 58):
+   Previous Row (58): <p>89. He who performs the excellent Vrata without a desire for the fruit feelin...
+   Split Content (59) : <p>90 A scholarly brahmin covered with ashes is immediately liberated from the terrible effects of e...
+
+🔴 Row 64 (Split continuation of Row 63):
+   Previous Row (63): <p>94. Surely the evil spirits, ghosts and goblins and repugnant diseases flee a...
+   Split Content (64) : <p>95 It is called Bhasita because it shines; Bhasma because it devours sins; Bhūti because it cause...
+
+⚠️ Found 5 verse sequence issue(s):
+
+Row 20 | Parsed Range: (7, 7)
+  🔴 OUT OF ORDER / TYPO (Jumped back to verse 7 after verse 26)
+  Snippet: <p>7. Freed from Paśu-hood, the devotee shall worship the phallic image of Śiva.</p>...
+
+Row 21 | Parsed Range: (28, 29)
+  🟡 MISSING VERSE GAP (Missing verses 27 to 27)
+  Snippet: <p>28-29. If capacity permits, an eight-petalled Padma shall be made in gold embellished w...
+
+Row 31 | Parsed Range: (44, 44)
+  🟡 MISSING VERSE GAP (Missing verses 41 to 43)
+  Snippet: <p>44. Sandal, Aguru, etc., along with sugar candy, honey, camphor and the ghee of a tawny...
+
+Row 60 | Parsed Range: (91, 91)
+  🟡 MISSING VERSE GAP (Missing verses 90 to 90)
+  Snippet: <p>91. The g&iacute;cat virility of the Rudra fire is what is glorified as the ashes. Henc...
+
+Row 65 | Parsed Range: (96, 96)
+  🟡 MISSING VERSE GAP (Missing verses 95 to 95)
+  Snippet: <p>96. What else need be cited to indicate the glory of Bhasma? The Vratin who has had the...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\01\ch_34\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 34 - The penance of Upamanyu</h1>...
+   Split Content (2) : <p><em>Note</em>: For the similarity of expression and contents of this and the following chapter, s...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_04\english.csv
+======================================================================
+⚠️ Found 2 split/unnumbered continuation row(s):
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h1>Chapter 4 - The exalted magnificence of Gaurī and Śiva</h1>...
+   Split Content (2) : <p><em>Note</em>: For the similarity of expression and contents of this chapter see ŚRS. 3.</p>...
+
+🔴 Row 78 (Split continuation of Row 77):
+   Previous Row (77): <p>77. That superhuman power of Parameṣṭhin is the greatest splendour, the great...
+   Split Content (78) : <p>78 Persons who have conquered their vital breath and the sense-organs endeavour to achieve it in ...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 79 | Parsed Range: (79, 79)
+  🟡 MISSING VERSE GAP (Missing verses 78 to 78)
+  Snippet: <p>79. A person who has understood the superhuman excellence of Śiva and Śivā which is the...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_06\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>1-2. Śiva has no bondage due to the atoms, effects, Māyā, Prakṛti, cosmic int...
+   Split Content (4) : <p>Tanmātras or the elements.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 28 (Split continuation of Row 27):
+   Previous Row (27): <p>33. There is no doubt that even a man of limited piety</p>...
+   Split Content (28) : <p>is spared the excruciating pain of being crushed in the machine of the vaginal passage after thre...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_10\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 46 (Split continuation of Row 45):
+   Previous Row (45): <p>51. The body that is marked by the characteristic symbols as prescribed by me...
+   Split Content (46) : <p>engaged in rendering service unto me is the true body&mdash;nothing else.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_13\english.csv
+======================================================================
+⚠️ Found 1 verse sequence issue(s):
+
+Row 39 | Parsed Range: (46, 46)
+  🟡 MISSING VERSE GAP (Missing verses 44 to 45)
+  Snippet: <p>46. O good-faced lady, the sage of this mantra is Vāmadeva; the metre is Paṅkti; the de...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_14\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 57 (Split continuation of Row 56):
+   Previous Row (56): <p>75. Still this mantra shall not be used for the trivial benefits or against i...
+   Split Content (57) : <h2><em>Upamanyu mid</em>:&mdash;</h2>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 47 (Split continuation of Row 46):
+   Previous Row (46): <p>65. Then after instructing him in the Śakti mantra,</p>...
+   Split Content (47) : <p>the expert preceptor shall make him repeat it easily and bless him with auspiciousness.</p>...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_18\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>21. Uplifting the Ātman of the disciple, as before, when it has been purified...
+   Split Content (21) : <p>21, He shall perform three Āhutis now and ritualistically dismiss him. Returning he shall make it...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 22 | Parsed Range: (23, 23)
+  🟡 MISSING VERSE GAP (Missing verses 22 to 22)
+  Snippet: <p>23. Performing the worship and the three Āhutis simultaneously he shall imagine the ent...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 42 (Split continuation of Row 41):
+   Previous Row (41): <p>62. Lifting the vessel, the devotee shall whirl it thrice above the phallic i...
+   Split Content (42) : <p>63 He shall offer Arghya and apply the scented Bhasma on the head. After offering a handful of fl...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 43 | Parsed Range: (64, 64)
+  🟡 MISSING VERSE GAP (Missing verses 63 to 63)
+  Snippet: <p>64. After offering water for drinking he shall offer Ācamana once again. Tāmbūla with f...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_32\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>12-17. After observing the rules of conduct, the devotee shall on an auspicio...
+   Split Content (15) : <p>the eternal lord accompanied by Ambā and the Gaṇas. Śiva&rsquo;s form as Maheśvara shall also be ...
+
+======================================================================
+🔍 AUDITING ENGLISH CSV SEQUENCE: .\07\02\ch_41\english.csv
+======================================================================
+⚠️ Found 1 split/unnumbered continuation row(s):
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>4. The steps that lead to it consist of blue stones and are beautiful. People...
+   Split Content (7) : <p>5-8, The sons of sages take water and flowers from it for the worship of the deities. They wear w...
+
+⚠️ Found 1 verse sequence issue(s):
+
+Row 8 | Parsed Range: (9, 11)
+  🟡 MISSING VERSE GAP (Missing verses 5 to 8)
+  Snippet: <p>9-11. Some stand on rocks submerged in water as if avoiding, contact with the low-born ...
+

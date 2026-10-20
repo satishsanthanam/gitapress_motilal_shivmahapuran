@@ -1,0 +1,2788 @@
+======================================================================
+📊 REPORT FOR: .\00\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Introduction Śivapurāṇa-māhātmya</h1>...
+
+======================================================================
+📊 REPORT FOR: .\00\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>16. Merely by listening to the story of Śiva a man secures that merit which results from the perf...
+   Split Content (21) : <p>I 7. O sage, those who listen to Śivapurāṇa the noblest of Sacred lore, cease to be mere human beings. They must be u...
+
+======================================================================
+📊 REPORT FOR: .\00\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\00\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 63 (Split continuation of Row 62):
+   Previous Row (62): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (63) : <p>The intelligent Brahmin mercifully lifted up Ca&ntilde;culā who had become disgusted (with worldly affairs) and had f...
+
+======================================================================
+📊 REPORT FOR: .\00\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>The Brahmin said</em>:&mdash;</h2>...
+   Split Content (2) : <p>l-2. O Brahmin lady, fortunately you have realised at the proper time on hearing the story of Śivapurāṇa that is cond...
+
+======================================================================
+📊 REPORT FOR: .\00\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\00\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\00\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 1 - Vidyeśvara-saṃhitā</h1>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2>(<em>Benedictory Prayer</em>)</h2>...
+   Split Content (2) : <p>I meditate on Śiva, the lord of Ambikā (Pārvatī), auspicious from the beginning to the end, having no parallel, the n...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (11) : <p>&ldquo;That from whom words recede, not approaching him even with the mind; that from whom this entire universe begin...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 24 (Split continuation of Row 23):
+   Previous Row (23): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (24) : <p>O Sūta, you have narrated Śravaṇa etc.&mdash;the three means of salvation. If a person is unable to practise these th...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_06\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 6 - Battle between Brahmā and Viṣṇu</h1>...
+   Split Content (1) : <p><em>Summary</em>: The journey to Kailāśa of the Devas terrified by the use of the Pāśupata weapon in the fight betwee...
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>4. Expiatory rites are ordained for that spiteful wretch who behaves like a haughty fool at the v...
+   Split Content (7) : <p><em>5</em>. On hearing these words Viṣṇu was angry. But assuming a calm exterior he said&mdash;&ldquo;O dear, Hail th...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>2. O gods, the fight between Brahmā and Viṣṇu is</p>...
+   Split Content (4) : <p>already known to me. This agitation on your part is like a redundant speech.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_08\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1. Mahādeva then created a wonderful person, Bhairava, from the middle of his brows to quell the ...
+   Split Content (3) : <p><em>2</em>. This Bhairava knelt before the lord in the battle-field and said&mdash;&ldquo;O lord, what shall I do? Pl...
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (14) : <p>O Lord, be pleased. O flourishing one, I consider this sparing of my head itself a great blessing and a boon. Obeisan...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_09\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Nandikeśvara said</em>:&mdash;</h2>...
+   Split Content (2) : <p>I. In the mean time Brahmā and Viṣṇu had been standing silently on either side of the lord with the palms joined in r...
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <h2><em>Īśvara said</em>:&mdash;</h2>...
+   Split Content (8) : <p>Dear children, I am delighted at your worship on this holy day. Henceforth this day will be famous as &ldquo;Śivarātr...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_10\english.csv
+======================================================================
+⚠️ Found 4 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 10 - The five-fold activities (pa&ntilde;cakṛtya) and the Oṃkāra-mantra</h1>...
+   Split Content (1) : <p><em>Summary</em>: The Evanescence of Śiva after expounding the Five-fold duties (<em>pa&ntilde;cakṛtya</em>) and the ...
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <h2><em>Śiva said</em>:&mdash;</h2>...
+   Split Content (5) : <p>I shall tell you the great secret of the five-fold duties, out of compassion for you.</p>...
+
+🔴 Row 31 (Split continuation of Row 30):
+   Previous Row (30): <p>28-31. (The prayer):&mdash;Obeisance to Thee of the bodiless form. Obeisance to Thee of the forml...
+   Split Content (31) : <p>After eulogising the preceptor in verses Brahmā and Viṣṇu bowed to him.</p>...
+
+🔴 Row 39 (Split continuation of Row 38):
+   Previous Row (38): <p>38-39. The others too shall install the phallic form with Oṃkāra mantra and the embodied form wit...
+   Split Content (39) : <p>Having thus instructed His disciples Śiva vanished there itself.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_11\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>25-29. The devotee shall install the phallic emblem and it will accord directly the region of Śiv...
+   Split Content (21) : <p>Or the devotee need perform the rites from water-offering to food offering alone duly. Or the devotee shall daily per...
+
+🔴 Row 56 (Split continuation of Row 55):
+   Previous Row (55): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (56) : <p>All of you listen faithfully to the account of all holy centres and their traditions.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_15\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (4) : <p>The pure house accords normal benefit in the rites of Devayaj&ntilde;a etc.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 48 (Split continuation of Row 47):
+   Previous Row (47): <p>71-75. The great offering of eatables shall be made to Śiva especially in the month of Dhanus. Th...
+   Split Content (48) : <p>Rice of the Śālī variety a Bhāra by weight; pepper measuring a prastha; countable articles twelve in number; honey an...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_18\english.csv
+======================================================================
+⚠️ Found 4 split line(s) missing verse tags:
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (4) : <p>I shall explain bondage, liberation and the means of liberation. Please listen attentively.</p>...
+
+🔴 Row 26 (Split continuation of Row 25):
+   Previous Row (25): <h2><em>The sages said</em>.&mdash;</h2>...
+   Split Content (26) : <p>O excellent one of good rites, please explain the rules governing worship of Śiva in the phallic and other forms.</p>...
+
+🔴 Row 28 (Split continuation of Row 27):
+   Previous Row (27): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (28) : <p>I shall explain, O brahmins, the procedure of the worship of the phallic form, please listen. The first phallic form ...
+
+🔴 Row 51 (Split continuation of Row 50):
+   Previous Row (50): <p>54. A ritualist shall perform all the worship in a Vessel.</p>...
+   Split Content (51) : <p>At the conclusion of Abhiṣeka (ceremonial bath) the Naivedya consisting of cooked rice of the Śālī variety shall be o...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1-2. O Sūta, Sūta, be long-lived. Thou art a blessed devotee of Śiva. The greatness of Siva&rsquo...
+   Split Content (3) : <p>Now speak about the greatness of Earthen phallic image of Śiva which is far superior to all others.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_20\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 20 - Worshipping an earthen phallic image by chanting Vedic mantras</h1>...
+   Split Content (1) : <p><em>Summary</em>: The mode of worshipping an earthen phallic image by chanting Vedic mantras.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_21\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1-2. O Sūta, O Sūta the fortunate, disciple of Vyāsa, obeisance be to Thee. Thou hast clearly exp...
+   Split Content (3) : <h1><em>Sūta said</em>:&mdash;</h1>...
+
+🔴 Row 13 (Split continuation of Row 12):
+   Previous Row (12): <p>11. A person desirous of sweeping off his foes&mdash;a thousand; desirous of numbifying&mdash;a t...
+   Split Content (13) : <p>I 2. A person desirous of freeing himself from fetters&mdash;a thousand five hundred. If there is fear from a great k...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>6. If in a family Śiva&rsquo;s Naivedya becomes popular with the members, that house becomes sacr...
+   Split Content (9) : <p><em>7</em>. When Śiva&rsquo;s Naivedya is offered it shall be accepted with pleasure and humility. It shall be eaten ...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\01\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 87 (Split continuation of Row 86):
+   Previous Row (86): <p>98-102. The thirty-two places are:&mdash;head, forehead, two ears, two eyes, two noses, mouth, ne...
+   Split Content (87) : <p>Or the devotee shall apply the Tripuṇḍra in sixteen parts of the body.</p>...
+
+======================================================================
+📊 REPORT FOR: .\01\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 2.1 - Rudra-saṃhitā (1): Sṛṣṭi-khaṇḍa</h1>...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_02\english.csv
+======================================================================
+⚠️ Found 3 split line(s) missing verse tags:
+
+🔴 Row 61 (Split continuation of Row 60):
+   Previous Row (60): <p>53-55. Unaffected by passion and highly intelligent by nature how can you be swayed by lust?&rdqu...
+   Split Content (61) : <p>On hearing words like these, the great sage laughed within himself but spoke to Viṣṇu humbly.</p>...
+
+🔴 Row 63 (Split continuation of Row 62):
+   Previous Row (62): <h2><em>Nārada said</em>:&mdash;</h2>...
+   Split Content (63) : <p>&ldquo;O lord, what can Kāma do to me if you remain favourable to me?&rdquo;</p>...
+
+🔴 Row 64 (Split continuation of Row 63):
+   Previous Row (63): <p>&ldquo;O lord, what can Kāma do to me if you remain favourable to me?&rdquo;</p>...
+   Split Content (64) : <p>Saying so, the sage who had paid a casual visit bowed to Viṣṇu and left.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1-2. Sūta, O blessed Sūta, the disciple of Vyāsa, our obeisance to thee. It is due to thy grace t...
+   Split Content (3) : <p>Now tell us in detail what Viṣṇu did after Nārada had left the place? And where did Nārada go?</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_04\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (2) : <p>l-2. Sūta, O Sūta of great intellect, a wonderful tale has been narrated by you. Blessed indeed is the Māyā of Śiva. ...
+
+🔴 Row 26 (Split continuation of Row 25):
+   Previous Row (25): <h2><em>Viṣṇu said</em>:&mdash;</h2>...
+   Split Content (26) : <p>&ldquo;Do not be sorry too much. Undoubtedly you are my true devotee.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_07\english.csv
+======================================================================
+⚠️ Found 4 split line(s) missing verse tags:
+
+🔴 Row 13 (Split continuation of Row 12):
+   Previous Row (12): <p>13. O sage, I climbed up to the lotus by the stalk.</p>...
+   Split Content (13) : <p>But the upper part of the lotus I could not reach. I was disappointed.</p>...
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <h2><em>Viṣṇu said</em>:&mdash;</h2>...
+   Split Content (33) : <p>&ldquo;I know you as the creator of the world. For the sake of creation and support you are descended from my undecay...
+
+🔴 Row 42 (Split continuation of Row 41):
+   Previous Row (41): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (42) : <p>On hearing these words, I, proud of being Brahmā, became angry. Being deluded by illusion in a threatening attitude I...
+
+🔴 Row 52 (Split continuation of Row 51):
+   Previous Row (51): <p>52. &ldquo;O lord of subjects, with the speed of the wind you will please go up to examine its to...
+   Split Content (52) : <h2><em>Brahmā continues the story</em>:&mdash;</h2>...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_09\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 42 (Split continuation of Row 41):
+   Previous Row (41): <p>36. Just as the difference of clay and the various objects made of it is not a material one, so a...
+   Split Content (42) : <p>The presence of the material cause in the effect can be cited as an example.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_13\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 54 (Split continuation of Row 53):
+   Previous Row (53): <p>77-83. O Śiva, whatever I have done by way of worship etc. with or without sufficient knowledge f...
+   Split Content (54) : <p>O sages, thus I have entirely explained the mode of worshipping Śiva that confers worldly pleasures and salvation. Wh...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_18\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 24 (Split continuation of Row 23):
+   Previous Row (23): <h2><em>Yamagaṇas said</em>:&mdash;</h2>...
+   Split Content (24) : <p>&ldquo;O Gaṇas, this is a wicked brahmin who has broken the traditions and conventions of his family. He has disobeye...
+
+======================================================================
+📊 REPORT FOR: .\02\01\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\01\ch_20\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>15-16. Viṣṭambha and Candratāpana each with eight crores, the leader of Gaṇas Mahākeśa with a tho...
+   Split Content (17) : <p>I 7. Kuṇḍin, Vāha and the auspicious Parvataka with twelve crores each, Kāla, Kālaka and Mahākāla each with a hundred...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 2.2 - Rudra-saṃhitā (2): Satī-khaṇḍa</h1>...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_06\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 65 (Split continuation of Row 64):
+   Previous Row (64): <p>62. O Hermitess, these things have been ordained by me for my own end. O fortunate woman, do as I...
+   Split Content (65) : <p>Thus after instructing her for her welfare the lord vanished from the scene.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 26 (Split continuation of Row 25):
+   Previous Row (25): <p>22. Brahmā is the cause of creation, Viṣṇu is sustainer.</p>...
+   Split Content (26) : <p>I shall be the cause of dissolution in the form of Rudra, a Saguṇa form.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <h2><em>Brahmā said</em>:&mdash;</h2>...
+   Split Content (11) : <p>On hearing these words of Viṣṇu, lord Śiva laughed. The omniscient lord told the slayer of Madhu, &ldquo;Be it so.&rd...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_20\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Nārada said</em>:&mdash;</h2>...
+   Split Content (2) : <p>l-2. O lord Brahmā, the fortunate one, foremost of Śiva&rsquo;s devotees, you have narrated the wonderfully auspiciou...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_22\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Nārada said</em>:&mdash;</h2>...
+   Split Content (2) : <p>l-2. &ldquo;O Brahmā, lord of subjects, of great mercy and lofty intellect, you have narrated the benevolent glory of...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_26\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 22 (Split continuation of Row 21):
+   Previous Row (21): <h2><em>Dakṣa said</em>:&mdash;</h2>...
+   Split Content (22) : <p>May all these brahmins and devas listen. May all of you deem him worthy of being killed by me.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_27\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_28\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>17. &ldquo;O slender-waisted lady, why did you come here in the council-chamber and that too in a...
+   Split Content (19) : <h2><em>Brahmā continues the story</em>&mdash;</h2>...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_29\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_30\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1 class="h2 pt-2">Chapter 30 - Satī’s casting off of her body and the subsequent disorder</h1>...
+
+======================================================================
+📊 REPORT FOR: .\02\02\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_32\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_34\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_35\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_36\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_37\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_38\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_40\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_42\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\02\ch_43\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 2.3 - Rudra-saṃhitā (3): Pārvatī-khaṇḍa</h1>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 1 - The marriage of Himācala</h1>...
+   Split Content (1) : <p><em>Note</em>: Himavat or Himācala is represented in two forms (1) the mobile and (2) immobile. The former is the sub...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_08\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 43 (Split continuation of Row 42):
+   Previous Row (42): <p>36. It is heard that the great God abhors all attachments. He has perfect self-control. He is eve...
+   Split Content (43) : <p>penance and is out of reach of even the Gods.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>17. O lord of gods, the Vedas and the sacred lore do</p>...
+   Split Content (16) : <p>not know you entirely. Your greatness is beyond the sphere of words and minds, inexpressible by means of words and in...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_13\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>6. On hearing these words of Pārvatī, the great lord engaged in the causation of great enjoyment ...
+   Split Content (9) : <p>The <em>great lord said</em>:&mdash;</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 16 - Brahmā consoles the gods</h1>...
+   Split Content (1) : <p><em>Summary</em>: Brahmā consoles the gods harassed and frightened by the demon Tāraka.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_17\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>10. Who can be dearer than the person from whom</p>...
+   Split Content (15) : <p>one derives benefit? Hence you, my greatest friend, must carry out my task.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 39 (Split continuation of Row 38):
+   Previous Row (38): <p>28. Bowing to her parents with joy, Pārvatī remember</p>...
+   Split Content (39) : <p>ed Śiva and set out for performing penance along with her maids.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>12. Then Viṣṇu, the great devotee and benefactor of</p>...
+   Split Content (19) : <p>the gods mentioned the matter of great importance of the gods as mentioned by me (before).</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_27\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>9. &ldquo;O excellent brahmin, why do you go? Stay</p>...
+   Split Content (15) : <p>and tender me wholesome advice&rdquo;. When she said thus, the staff-bearing brahmin stopped and spoke.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_28\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_29\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_30\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1. O Brahmā, O dear, of great fortune, you have the real vision and are blessed. This wonderful s...
+   Split Content (3) : <p><em>2</em>. When Śiva returned to His mountain, O intelligent one, what did Pārvatī allauspicious do and where did sh...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_32\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_34\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_35\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_36\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_37\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <p><em>Summary</em>: The letter of betrothal is despatched, the requisites for the celebration are gathered and the moun...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_38\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <p>2. The roads were watered and swept clean. At every door, stumps of plantain trees and other ausp...
+   Split Content (4) : <p><em>3</em>. The courtyard was embellished with plantain trees tied with silken cords. There were festoons of mango le...
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>6. He called Viśvakarman and requested him to erect a large and spacious dais beautiful with side...
+   Split Content (8) : <p><em>7</em>. The dais, O celestial sage, was ten thousand Yojanas wide. It was wonderfully constructed and had all the...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_40\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_42\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_43\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_44\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 101 (Split continuation of Row 100):
+   Previous Row (100): <p>82. This Śiva is the supreme being, the bestower of</p>...
+   Split Content (101) : <p>supreme happiness. Out of His sympathy He has granted His vision to your daughter.</p>...
+
+🔴 Row 115 (Split continuation of Row 114):
+   Previous Row (114): <p>94. Who has described His form? By whom can it be</p>...
+   Split Content (115) : <p>known? Even Brahmā and I were not able to gauge him.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_45\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_46\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_47\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 47 - The ceremonious entry of Śiva</h1>...
+   Split Content (1) : <p><em>Summary</em>: The ceremonious entry of Śiva into the inner apartments of the palace of Himavat.</p>...
+
+🔴 Row 50 (Split continuation of Row 49):
+   Previous Row (49): <p>44-45. O sage, urged by me, the priest carried out</p>...
+   Split Content (50) : <p>the auspicious rites relevant to the context after entering the enclosure where the altar had been built along with H...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_48\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 6 (Split continuation of Row 5):
+   Previous Row (5): <p>4. Then the brahmins were requested by Himavat</p>...
+   Split Content (6) : <p>&ldquo;May the rite be formally started after narrating the Tithi etc. The auspicious hour has come.&rdquo;</p>...
+
+🔴 Row 24 (Split continuation of Row 23):
+   Previous Row (23): <p>19. He has no Gotra, family or name. He is independent. He is favourably disposed to His devotees...
+   Split Content (24) : <p>His will He assumes bodies taking many names. He is full of attributes.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\03\ch_49\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_50\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_51\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_52\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_53\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_54\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\03\ch_55\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 2.4 - Rudra-saṃhitā (4): Kumāra-khaṇḍa</h1>...
+
+======================================================================
+📊 REPORT FOR: .\02\04\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_02\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>5. &ldquo;O great God, O lord of gods, O ocean of mercy,</p>...
+   Split Content (8) : <p>O Śiva, you are the immanent soul of all. You know everything.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\04\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>11. My maternal grandfather, the excellent mountain Himavat, will become the fortunate bestower o...
+   Split Content (16) : <p>The <em>gods said</em>:&mdash;</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\04\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\04\ch_18\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>14. O Brahmin, then with the graceful blessings of</p>...
+   Split Content (15) : <p>Pārvatī, instantly peace reigned upon gods and particularly on the Gaṇas.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\04\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <p>9. They thought that the two sons had attained to marriageable age and how best their marriage sh...
+   Split Content (12) : <p>I 0. The sixfaced lord Kārttikeya was their great beloved son. Gaṇeśa too was likewise. Thinking thus they were worri...
+
+======================================================================
+📊 REPORT FOR: .\02\04\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 2.5 - Rudra-saṃhitā (5): Yuddha-khaṇḍa</h1>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_01\english.csv
+======================================================================
+⚠️ Found 4 split line(s) missing verse tags:
+
+🔴 Row 82 (Split continuation of Row 81):
+   Previous Row (81): <p>78. O sage, a long time elapsed even as they were engaged in meritorious activities and living ha...
+   Split Content (82) : <h2>Notes on the &lsquo;three cities&rsquo; (<em>tripura</em>):</h2>...
+
+🔴 Row 83 (Split continuation of Row 82):
+   Previous Row (82): <h2>Notes on the &lsquo;three cities&rsquo; (<em>tripura</em>):</h2>...
+   Split Content (83) : <p>According to the present version, three Asuras Tāraka, Vidyunmāli and Kamalākṣa performed penances and obtained a boo...
+
+🔴 Row 84 (Split continuation of Row 83):
+   Previous Row (83): <p>According to the present version, three Asuras Tāraka, Vidyunmāli and Kamalākṣa performed penance...
+   Split Content (84) : <p>The Chedis adopted the name Tripurī for their capital on the banks of the Narmadā. It is now traceable in the insigni...
+
+🔴 Row 85 (Split continuation of Row 84):
+   Previous Row (84): <p>The Chedis adopted the name Tripurī for their capital on the banks of the Narmadā. It is now trac...
+   Split Content (85) : <p>The legend of the three cities is as old as the Brāhmaṇa literature. It is said that the Asuras built the city of cop...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_02\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 40 (Split continuation of Row 39):
+   Previous Row (39): <p>180. Cāṇūra was a wrestler in Kaṃsa&rsquo;s service. He was slain by Kṛṣṇa.</p>...
+   Split Content (40) : <p>ful, beloved of truth, to the truth. Obeisance to Thee know-able through the truth.</p>...
+
+🔴 Row 52 (Split continuation of Row 51):
+   Previous Row (51): <p>41. Among animals, you are the bull Nandīśvara, O</p>...
+   Split Content (52) : <p>lord Śiva. Among Vedic texts you are in the form of Upaniṣads; Among the sacrificers you are the cool-rayed moon.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 4 (Split continuation of Row 3):
+   Previous Row (3): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (4) : <p><em>2</em>. After offering him initiation, the ascetic Arihan served by his disciples, Nārada and others, spoke to th...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_10\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 42 (Split continuation of Row 41):
+   Previous Row (41): <p>44. Those who worshipped Śiva along with their family attained Gaṇapati&rsquo;s region, thanks to...
+   Split Content (42) : <h2>Notes on the Burning of Tripura:</h2>...
+
+🔴 Row 43 (Split continuation of Row 42):
+   Previous Row (42): <h2>Notes on the Burning of Tripura:</h2>...
+   Split Content (43) : <p>The Purāṇas accord different versions of the burning of Tripurī. The present version is a regular legend based on an ...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_11\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 38 (Split continuation of Row 37):
+   Previous Row (37): <p>31. After saying this, lord Viṣṇu the most excellent of the great devotees of Śiva stopped. Then ...
+   Split Content (38) : <p>The <em>gods said</em>:&mdash;</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_17\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 16 (Split continuation of Row 15):
+   Previous Row (15): <p>14. O sage, gods, Asuras, sages and the Siddhas were</p>...
+   Split Content (16) : <p>very much surprised at the terrible mutual clash between the two.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_22\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_24\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_27\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_28\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_29\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>7. With the consent of the Asuras, the preceptor Śukra made him the emperor of Dānavas, Asuras an...
+   Split Content (9) : <p>others with jubilant festivities.</p>...
+
+🔴 Row 29 (Split continuation of Row 28):
+   Previous Row (28): <p>27. The oceans yielded plenty of gems and jewels. Abundant flowers and fruits grew up on the Eart...
+   Split Content (29) : <p>flowed with pure crystal clear water.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_30\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_32\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_34\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_35\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_36\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <p>33. Everywhere groups of heroes were seen in that</p>...
+   Split Content (33) : <p>terrible war roaring like lions with various weapons displayed in their hands.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_37\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_38\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_40\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 18 (Split continuation of Row 17):
+   Previous Row (17): <p>16-17. &ldquo;O lord of Dānavas, give me the alms for</p>...
+   Split Content (18) : <p>which I have come to you. I shall not say openly what I wish to have from you who are favourably disposed to the dist...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_42\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_43\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <h2><em>Prahlāda said</em>:&mdash;</h2>...
+   Split Content (33) : <p>&ldquo;Is it the universe-formed lord who has come as the majestic lion?</p>...
+
+🔴 Row 36 (Split continuation of Row 35):
+   Previous Row (35): <p>31. Since there is none to fight him in all the three worlds, it is better that you submit to him...
+   Split Content (36) : <p>On hearing the words of his son, the wicked Asura said &ldquo;O son, why are you so afraid?&rdquo;</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_44\english.csv
+======================================================================
+⚠️ Found 3 split line(s) missing verse tags:
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <p>12. Nor shall I meet with death from Nārāyaṇa, the enemy of leading Daityas, or from the omniscie...
+   Split Content (15) : <p>On hearing these words of the demon, Brahmā became suspicious. He told him:&mdash;</p>...
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>14. Good men like you should rather avoid too long a life&rdquo;.</p>...
+   Split Content (19) : <p>On hearing these pleading words from Brahmā, the Daitya said again.</p>...
+
+🔴 Row 72 (Split continuation of Row 71):
+   Previous Row (71): <p>60. O Rākṣasa, whatever appeals to you at present you can take&rdquo;.</p>...
+   Split Content (72) : <p>After saying this, Śiva who wore the garb of an ascetic stopped, and stood quiet.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_45\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <h2><em>Śiva said</em>:&mdash;</h2>...
+   Split Content (11) : <p>&ldquo;O beloved, formerly I had performed the great Vrata called Mahāpāśupata.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_46\english.csv
+======================================================================
+⚠️ Found 3 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (2) : <p>l-2. The king of Daityas, skilled in interpreting what he hinted at, seized his mace and hastened along with his army...
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>306. A particular kind of Sacred verse intended to be sung is called Sāmaveda.</p>...
+   Split Content (21) : <p>of the Dānavas was shattered and destroyed. Everything was suppressed by the gods. When the battle ground was strewn ...
+
+🔴 Row 28 (Split continuation of Row 27):
+   Previous Row (27): <p>34. When fresh army cropped up from the army slain by Śiva from the hot drops of blood and cut pi...
+   Split Content (28) : <p>lord of Pramathas and intelligently assumed a fierce form of a hideous woman employing his Yogic knowledge.</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_47\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_48\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_49\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (2) : <p>Om obeisance to you, the lord of the gods, the one bowed to by the gods and Asuras, the great lord of the beings past...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_50\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_51\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1-2. O omniscient Sanatkumāra, a wonderfully excellent</p>...
+   Split Content (3) : <p>story has been narrated with love and blessings by you. It is full of Śiva&rsquo;s benediction. I wish to know more o...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_52\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (2) : <p>l. Listen to another story of Śiva the great soul which bestows the highest pleasure and wherein his endearment to hi...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_53\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_54\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_55\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_56\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_57\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <p>30. O sage, when the lord of Asuras came there,</p>...
+   Split Content (33) : <p>there was a great tumult among the residents of Ānandavana, They shouted &ldquo;Protect, Protect.&rdquo;</p>...
+
+🔴 Row 61 (Split continuation of Row 60):
+   Previous Row (60): <h2><em>Sanatkumāra said</em>:&mdash;</h2>...
+   Split Content (61) : <p>words, lord Śiva, the storehouse replied to Gajāsura, the son of</p>...
+
+======================================================================
+📊 REPORT FOR: .\02\05\ch_58\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\02\05\ch_59\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 3 - Śatarudra-saṃhitā</h1>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 1 - The five incarnations of the supreme Brahman</h1>...
+   Split Content (1) : <p>I bow to lord Śiva of great bliss and of endles divine sports, who is great and omnipresent, who is the beloved conso...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_02\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>17. O son of Brahmā, thus the well known eight forms have been explained to you. These forms enga...
+   Split Content (19) : <h2>Notes on the eight forms of lord Śiva:</h2>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_08\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>7. O great sage, in this connection I shall narrate an</p>...
+   Split Content (9) : <p>ancient legend. O dear one, listen to it with faith. It is the great cause of perfect knowledge.</p>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_13\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 12 (Split continuation of Row 11):
+   Previous Row (11): <p>10. O Lord, still a desire has been lurking in my heart for a long time. It is proper to all hous...
+   Split Content (12) : <h2><em>Viśvānara</em> s<em>aid</em>:&mdash;</h2>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 22 - Harassment by Viṣṇu&rsquo;s sons</h1>...
+   Split Content (1) : <p><em>Summary</em>: Harassment by Viṣṇu&rsquo;s sons and the story of Śiva&rsquo;s incarnation of the Bull.</p>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_24\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_27\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 27 - The incarnation of Dvijeśvara</h1>...
+   Split Content (1) : <p><em>Note</em>: This Chapter has a close resemblance with the second canto of Kālidāsa&rsquo;s Raghuvaṃśa.</p>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_28\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_29\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 61 (Split continuation of Row 60):
+   Previous Row (60): <p>46. The pure-souled Śrāddhadeva too with head bent</p>...
+   Split Content (61) : <p>and palms joined eulogised the lord and requested him to forgive his fault.</p>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_30\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_32\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 26 (Split continuation of Row 25):
+   Previous Row (25): <h2><em>Indra said</em>:&mdash;</h2>...
+   Split Content (26) : <p><em>Note</em>: The dialogue between Indra and Upamanyu is reminiscent of the talk between Pārvatī and the student asc...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_33\english.csv
+======================================================================
+⚠️ Found 3 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 33 - Śiva&rsquo;s incarnation as the student-ascetic (Jaṭila)</h1>...
+   Split Content (1) : <p><em>Nandīśvara said</em>:&mdash;</p>...
+
+🔴 Row 57 (Split continuation of Row 56):
+   Previous Row (56): <p>46-47. On hearing her words, the brahmin began to say something; but by that time, Pārvatī whose ...
+   Split Content (57) : <h2><em>Pārvatī</em> s<em>aid</em>:&mdash;</h2>...
+
+🔴 Row 77 (Split continuation of Row 76):
+   Previous Row (76): <h2><em>Nandīśvara said</em>:&mdash;</h2>...
+   Split Content (77) : <p>Thus requested by Pārvatī Śiva took her hand duly and went to Kailāsa along with her. On getting him as her lord, she...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_34\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Nandīśvara said</em>:&mdash;</h2>...
+   Split Content (2) : <p>I. O omniscient Sanatkumāra, listen to the incarnation of lord Śiva, the great soul, as Sunartaka naṭa.</p>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_35\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_36\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 21 (Split continuation of Row 20):
+   Previous Row (20): <p>19. O sage, although the great hero Aśvatthāman was</p>...
+   Split Content (21) : <p>born of a part of lord Śiva. Still due to his devotion to the Kauravas, he exhibited his full vigour.</p>...
+
+🔴 Row 36 (Split continuation of Row 35):
+   Previous Row (35): <p>30. O great sage, although the Brahmaśiras missile</p>...
+   Split Content (36) : <p>never goes futile and cannot be counteracted, it subsided before the splendour of the Śaiva missile.</p>...
+
+======================================================================
+📊 REPORT FOR: .\03\ch_37\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_38\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_40\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\03\ch_42\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 4 - Koṭirudra-Saṃhitā</h1>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_03\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>17-18. She joyously served the sage constantly. Making a beautiful clay image through mantras in ...
+   Split Content (19) : <p>service. After serving Śiva repeatedly she eulogised him with devotion.</p>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 34 (Split continuation of Row 33):
+   Previous Row (33): <p>25. Then, thanks to the blessings of Śiva, an intelligent idea struck her mind.</p>...
+   Split Content (34) : <p>&ldquo;O lord, please hear me. I shall tell you what has happened.&rdquo;</p>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_13\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 26 (Split continuation of Row 25):
+   Previous Row (25): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (26) : <p>Who is a Devalaka? What is his function? O intelligent one, mention that for the guidance of the people.</p>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_20\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 20 - The greatness of the Jyotirliṅga Bhīmeśvara</h1>...
+   Split Content (1) : <p><em>Summary</em>: The greatness of the Jyotirliṅga Bhīmeśvara and the havoc perpetrated by Bhīmāsura.</p>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_22\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_24\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 24 - The greatness of Gautama</h1>...
+   Split Content (1) : <p><em>Summary</em>: The greatness of Gautama in the context of the greatness of Tryambakeśvara.</p>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_27\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_28\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 23 (Split continuation of Row 22):
+   Previous Row (22): <p>19-21. He was distressed by its heavy weight. He placed it on the ground. The phallic image made ...
+   Split Content (23) : <p>This Jyotirliṅga is the most excellent of all. By its sight or worship it destroys sins. It is divine and conducive t...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_29\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_30\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_32\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_34\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_35\english.csv
+======================================================================
+⚠️ Found 9 split line(s) missing verse tags:
+
+🔴 Row 5 (Split continuation of Row 4):
+   Previous Row (4): <p>2-131 Śiva (pure), Hara (destroyer), Mṛḍa (gracious), Rudra (terrible), Puṣkara(nourisher), Puṣpa...
+   Split Content (5) : <p>Viśālākṣa (wide-eyed), Mṛgavyādha (hunter of animal), Sureśa (lord of gods), Sūryatāpana (scorcher of the sun), Dharm...
+
+🔴 Row 6 (Split continuation of Row 5):
+   Previous Row (5): <p>Viśālākṣa (wide-eyed), Mṛgavyādha (hunter of animal), Sureśa (lord of gods), Sūryatāpana (scorche...
+   Split Content (6) : <p>Sulabha (easy of access), Suvrata (of good rites), Śūra (heroic), Vāṅmayaikanidhi (treasure stored in all extant lite...
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>Sulabha (easy of access), Suvrata (of good rites), Śūra (heroic), Vāṅmayaikanidhi (treasure store...
+   Split Content (7) : <p>Saṃvatsarakara (one causing the year), Mantra Pratyaya (credence), Sarvatāpana (scorcher of all), Aja (unborn), Sarve...
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>Saṃvatsarakara (one causing the year), Mantra Pratyaya (credence), Sarvatāpana (scorcher of all),...
+   Split Content (8) : <p>Anemi (having no restricting rims), Iṣṭanemi, Mukunda (bestower of salvation or identical with lord Viṣṇu), Vigatajva...
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>Anemi (having no restricting rims), Iṣṭanemi, Mukunda (bestower of salvation or identical with lo...
+   Split Content (9) : <p>Aghora (non-terrible), Anuttara (unsurpassed), Yaj&ntilde;a (sacrifice), Śreṣṭha (excellent), Niḥśreyasaprada (bestow...
+
+🔴 Row 10 (Split continuation of Row 9):
+   Previous Row (9): <p>Aghora (non-terrible), Anuttara (unsurpassed), Yaj&ntilde;a (sacrifice), Śreṣṭha (excellent), Niḥ...
+   Split Content (10) : <p>Niṣkaṇṭaka (free from thorns), Kṛtānanda (taking delight), Nirvyāja (free from false pretexts), Vyājamardana (suppres...
+
+🔴 Row 11 (Split continuation of Row 10):
+   Previous Row (10): <p>Niṣkaṇṭaka (free from thorns), Kṛtānanda (taking delight), Nirvyāja (free from false pretexts), V...
+   Split Content (11) : <p>Muṇḍin (having clean-shaven head), Kuṇḍalin (having earrings), Amṛtyu (deathless), Sarvadṛk (seeing all), Siṃha (leon...
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <p>133. O brahmins, then the enthusiastic Śiva performed something wonderful and pleasing. Listen to...
+   Split Content (14) : <h2>Notes on the Śiva-sahasranāma:</h2>...
+
+🔴 Row 15 (Split continuation of Row 14):
+   Previous Row (14): <h2>Notes on the Śiva-sahasranāma:</h2>...
+   Split Content (15) : <p>In fact the text records more than one thousand names. Some are identical in form: śivālayaḥ śivālayȧḥ; trilocanaḥ-tr...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_36\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 20 (Split continuation of Row 19):
+   Previous Row (19): <p>16. Viṣṇu purified himself and accepted it facing the north. After making obeisance to lord Śiva,...
+   Split Content (20) : <h5><em>Viṣṇu said</em>:&mdash;</h5>...
+
+======================================================================
+📊 REPORT FOR: .\04\ch_37\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_38\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_40\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_42\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\04\ch_43\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 5 - Umā-Saṃhitā</h1>...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 5 - The Great Sins (mahā-pāpa)</h1>...
+   Split Content (1) : <p><em>Note</em>: Manu differs in regard to the number of sins (<em>pāpa</em>) arising from the misuse of the mind, tong...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_06\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 6 - Different types of sins (pāpa)</h1>...
+   Split Content (1) : <p><em>Note</em>: For the comparison of the Principal and subsidiary sins as mentioned in the previous and present chapt...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_08\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 8 - Description of the Hell (naraka)</h1>...
+   Split Content (1) : <p><em>Note</em>: The chapter mentions several hells (<em>naraka</em>) and their cells to each of which it assigns a gro...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_17\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 44 (Split continuation of Row 43):
+   Previous Row (43): <p>44. In all these seven Varṣas, the rivers are well arranged. They have sands of gold. There are h...
+   Split Content (44) : <h2>Notes on the seven continents (dvīpa):</h2>...
+
+🔴 Row 45 (Split continuation of Row 44):
+   Previous Row (44): <h2>Notes on the seven continents (dvīpa):</h2>...
+   Split Content (45) : <p>ŚP. mentions seven continents. Their identif&igrave;cation is uncertain. Scholars hold different views: See Geography...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_22\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_23\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 23 - The description of infancy (bālya)</h1>...
+   Split Content (1) : <p><em>Summary</em>: The description of infancy and other stages and the impurity of the body.</p>...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_24\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_27\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_28\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_29\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_30\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_32\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_34\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_35\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 37 (Split continuation of Row 36):
+   Previous Row (36): <h2><em>Sūta said</em>:&mdash;</h2>...
+   Split Content (37) : <p>On hearing this, the sun was appeased.</p>...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_36\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 63 (Split continuation of Row 62):
+   Previous Row (62): <p>61. Kavi, son of Manu, was highly intelligent due to Śiva&rsquo;s blessings. After enjoying divin...
+   Split Content (63) : <h2>Notes on the nine sons of Vaivasvata Manu:</h2>...
+
+🔴 Row 64 (Split continuation of Row 63):
+   Previous Row (63): <h2>Notes on the nine sons of Vaivasvata Manu:</h2>...
+   Split Content (64) : <p>There is no consensus of opinion in the Purāṇas about the names. Pargiter who collated the Puranic texts on the topic...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_37\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_38\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_40\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>12. O Yudhiṣṭhira, those who perform Śrāddha rites with pleasure delight everyone through them as...
+   Split Content (17) : <p>J3-15. Men desirous of benefits perform Śrāddhas, keeping in view, the father, the grandfather and the greatgrandfath...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_42\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_43\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_44\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_45\english.csv
+======================================================================
+⚠️ Found 3 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 45 - The incarnation of Mahākālikā</h1>...
+   Split Content (1) : <p><em>Note</em>: For the close similarity of the form and contents of the present and succeeding chapters ending with U...
+
+🔴 Row 33 (Split continuation of Row 32):
+   Previous Row (32): <p>33-35. In the meantime a certain Vaiśya came there. The king asked him&mdash;&ldquo;Sir, who are ...
+   Split Content (33) : <p>On hearing the sweet words of the king, the leading Vaiśya Samādhi shed tears. He spoke to the king in words full of ...
+
+🔴 Row 45 (Split continuation of Row 44):
+   Previous Row (44): <p>45. This Vaiśya has been expelled from his house by his people, wife and others. Still his sense ...
+   Split Content (45) : <h2><em>Sivapurāṇa</em></h2>...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_46\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_47\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>16. She addressed the gods&mdash;&ldquo;All of you stay here fearlessly. I shall carry out your t...
+   Split Content (19) : <p>I am independent&rdquo;.</p>...
+
+======================================================================
+📊 REPORT FOR: .\05\ch_48\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_49\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_50\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\05\ch_51\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 6 - Kailāsa-saṃhitā</h1>...
+
+======================================================================
+📊 REPORT FOR: .\06\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <p>20-22. In the north-cast square of the lotus another lotus shall be drawn with the third letter o...
+   Split Content (14) : <p>[? note for one of verses 7-22 ?]: The mystical syllables as mentioned in the verses indicate the following incantati...
+
+======================================================================
+📊 REPORT FOR: .\06\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 17 (Split continuation of Row 16):
+   Previous Row (16): <p>38-40. From the Ādhāra Śakti to the scat of the sacred lore the devotee shall repeat the mantra, ...
+   Split Content (17) : <p>This is the procedure everywhere. As before, the five Brahmans shall be conceived in the idol in view of the differen...
+
+======================================================================
+📊 REPORT FOR: .\06\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_14\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_15\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 30 (Split continuation of Row 29):
+   Previous Row (29): <p>30. Brahmā was born of a thousandth part of Viṣṇu.</p>...
+   Split Content (30) : <p>He has the face of Sadyojāta and is the presiding deity of the principle of earth.</p>...
+
+======================================================================
+📊 REPORT FOR: .\06\ch_16\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Subrahmaṇya said</em>:&mdash;</h2>...
+   Split Content (2) : <p>Now the great statements: perfect knowledge is Brahman; I am Brahman; thou art that. This Ātman is Brahman. All this ...
+
+======================================================================
+📊 REPORT FOR: .\06\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_22\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\06\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 7.1 - Vāyavīya-saṃhitā (1)</h1>...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_01\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 1 - Origin of the sacred lore</h1>...
+   Split Content (1) : <p><em>Note</em>: Most of the verses of this chapter are identical on form and content with those of the last chapter in...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_03\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 19 (Split continuation of Row 18):
+   Previous Row (18): <p>20. He is an expert in solidifying the unsevered cosmic</p>...
+   Split Content (19) : <p>eggs. He is the ocean of benevolence, prowess, majesty and sweetness.</p>...
+
+🔴 Row 44 (Split continuation of Row 43):
+   Previous Row (43): <p>45. Hence there is no stipulated mode or order in the attainment of liberation. The supreme bliss...
+   Split Content (44) : <p>with the knowledge and emotion and attained by the grace of the lord.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_04\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_05\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>4-5. Delighted by his austere penance his father lord Śiva, foremost among the handsome assumed t...
+   Split Content (8) : <p>G. On seeing his father, Brahmā bowed to him and secured perfect knowledge along with Gāyatrī.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_06\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_07\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_10\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_11\english.csv
+======================================================================
+⚠️ Found 2 split line(s) missing verse tags:
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>4. The Manvantaras and Kalpas have no beginning or</p>...
+   Split Content (7) : <p>end. Being unknowable they cannot be narrated separately.</p>...
+
+🔴 Row 9 (Split continuation of Row 8):
+   Previous Row (8): <p>5. Even if they be knowable, of what avail is it to</p>...
+   Split Content (9) : <p>you to know them. Hence I do not attempt to narrate them separately.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_12\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>7. These animals had light within but not without.</p>...
+   Split Content (8) : <p>They had the form of animals and went a wrong path.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_14\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>Vāyu said</em>:&mdash;</h2>...
+   Split Content (2) : <p>I. I shall expain the reasons for the manifestation of Rudra in every Kalpa whereby the broken series of Brahmā&rsquo...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 8 (Split continuation of Row 7):
+   Previous Row (7): <p>7. It is the goddess whom scholars of the Vedas call</p>...
+   Split Content (8) : <p>the greatest Śakti endowed with the divine qualities of Śiva the great soul.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_19\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 2 (Split continuation of Row 1):
+   Previous Row (1): <h2><em>The sages said</em>:&mdash;</h2>...
+   Split Content (2) : <p>I. How did the lord create obstacles before the wicked Dakṣa who performed a sacrifice for virtue&rsquo;s sake? We wi...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_22\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 48 (Split continuation of Row 47):
+   Previous Row (47): <p>53-54. With their limbs shattered by the arrows, joints</p>...
+   Split Content (48) : <p>severed and eyes dislocated they fell dead on the ground. Some desired to enter the earth and some wished to go up to...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_24\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_27\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_28\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_29\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 7 (Split continuation of Row 6):
+   Previous Row (6): <p>5-8. The subtle one is in the form of thought, the one beyond is devoid of thought. The Śakti bas...
+   Split Content (7) : <p>is called Kuṇḍalinī Māyā and Śuddhādhvaparamā. This Śakti is ramified into six paths. The three paths pertain to word...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_30\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_32\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\01\ch_34\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 34 - The penance of Upamanyu</h1>...
+   Split Content (1) : <p><em>Note</em>: For the similarity of expression and contents of this and the following chapter, see Liṅga-purāṇa. 1. ...
+
+======================================================================
+📊 REPORT FOR: .\07\01\ch_35\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_00\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 0 (Split continuation of Row -1):
+   Previous Row (-1): N/A...
+   Split Content (0) : <h1>Section 7.2 - Vāyavīya-saṃhitā (2)</h1>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_01\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_02\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_03\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_04\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 1 (Split continuation of Row 0):
+   Previous Row (0): <h1>Chapter 4 - The exalted magnificence of Gaurī and Śiva</h1>...
+   Split Content (1) : <p><em>Note</em>: For the similarity of expression and contents of this chapter see ŚRS. 3.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_05\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_06\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 3 (Split continuation of Row 2):
+   Previous Row (2): <p>1-2. Śiva has no bondage due to the atoms, effects, Māyā, Prakṛti, cosmic intellect, ego, mind, s...
+   Split Content (3) : <p>Tanmātras or the elements.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_07\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 27 (Split continuation of Row 26):
+   Previous Row (26): <p>33. There is no doubt that even a man of limited piety</p>...
+   Split Content (27) : <p>is spared the excruciating pain of being crushed in the machine of the vaginal passage after three births.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_08\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_09\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_10\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 45 (Split continuation of Row 44):
+   Previous Row (44): <p>51. The body that is marked by the characteristic symbols as prescribed by me such as Tripuṇḍras,...
+   Split Content (45) : <p>engaged in rendering service unto me is the true body&mdash;nothing else.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_11\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_12\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_13\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_14\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 56 (Split continuation of Row 55):
+   Previous Row (55): <p>75. Still this mantra shall not be used for the trivial benefits or against insignificant opponen...
+   Split Content (56) : <h2><em>Upamanyu mid</em>:&mdash;</h2>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_15\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_16\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 46 (Split continuation of Row 45):
+   Previous Row (45): <p>65. Then after instructing him in the Śakti mantra,</p>...
+   Split Content (46) : <p>the expert preceptor shall make him repeat it easily and bless him with auspiciousness.</p>...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_17\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_18\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_19\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_20\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_21\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_22\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_23\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_24\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_25\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_26\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_27\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_28\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_29\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_30\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_31\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_32\english.csv
+======================================================================
+⚠️ Found 1 split line(s) missing verse tags:
+
+🔴 Row 14 (Split continuation of Row 13):
+   Previous Row (13): <p>12-17. After observing the rules of conduct, the devotee shall on an auspicious and favourable da...
+   Split Content (14) : <p>the eternal lord accompanied by Ambā and the Gaṇas. Śiva&rsquo;s form as Maheśvara shall also be conceived in the ido...
+
+======================================================================
+📊 REPORT FOR: .\07\02\ch_33\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_34\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_35\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_36\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_37\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_38\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_39\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_40\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!
+======================================================================
+📊 REPORT FOR: .\07\02\ch_41\english.csv
+======================================================================
+✅ No split/missing verse marker lines found!

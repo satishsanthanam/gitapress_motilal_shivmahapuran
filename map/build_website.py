@@ -6,12 +6,27 @@ import re
 SAMHITA_NAMES = {
     "00": "00 - Vidyeśvara Saṁhitā",
     "01": "01 - Rudra Saṁhitā (Sṛṣṭi Khaṇḍa)",
-    "02": "02 - Rudra Saṁhitā (Satī & Pārvatī Khaṇḍas)",
+    "02": "02 - Rudra Saṁhitā",
     "03": "03 - Śatarudra Saṁhitā",
     "04": "04 - Koṭirudra Saṁhitā",
     "05": "05 - Umā Saṁhitā",
     "06": "06 - Kailāsa Saṁhitā",
     "07": "07 - Vāyavīya Saṁhitā"
+}
+
+# Sub-section / Khaṇḍa Mapping for Saṁhitās 02 and 07
+SUBSECTION_NAMES = {
+    "02": {
+        "01": "Sṛṣṭi Khaṇḍa",
+        "02": "Satī Khaṇḍa",
+        "03": "Pārvatī Khaṇḍa",
+        "04": "Kumāra Khaṇḍa",
+        "05": "Yuddha Khaṇḍa"
+    },
+    "07": {
+        "01": "Pūrva Bhāga",
+        "02": "Uttara Bhāga"
+    }
 }
 
 def build_site():
@@ -65,7 +80,7 @@ def build_site():
         item["prev_hin"] = chapter_list[idx-1]["hin"] if idx > 0 and "hin" in chapter_list[idx-1] else ""
         item["next_hin"] = chapter_list[idx+1]["hin"] if idx < len(chapter_list)-1 and "hin" in chapter_list[idx+1] else ""
 
-    # 2. Build Navigation Tree
+    # 2. Build Navigation Tree Structure
     tree_data = {}
     for item in chapter_list:
         s = item["samhita"]
@@ -98,7 +113,9 @@ def build_site():
                 nav_html.append(f'<li><a href="#" data-eng="{eng}" data-hin="{hin}" onclick="loadChapter(\'{eng}\', \'{hin}\', \'{item["prev_eng"]}\', \'{item["next_eng"]}\', \'{item["prev_hin"]}\', \'{item["next_hin"]}\'); return false;">{ch_display}</a></li>')
 
         for sub in sub_keys:
-            nav_html.append(f'<li style="margin-left: -5px;"><details><summary style="background:#3182ce;">Section {sub}</summary><ul>')
+            # Map sub-section key to readable Khaṇḍa name
+            sub_name = SUBSECTION_NAMES.get(s_key, {}).get(sub, f"Section {sub}")
+            nav_html.append(f'<li style="margin-left: -5px;"><details><summary style="background:#3182ce;">{sub_name}</summary><ul>')
             for item in tree_data[s_key][sub]:
                 ch_num = re.sub(r'^\D+', '', item["chapter"])
                 ch_display = f"Chapter {int(ch_num):02d}" if ch_num.isdigit() else item["chapter"].title()
@@ -195,7 +212,6 @@ def build_site():
                 showSubResults: true,
                 resetFilters: false,
                 processResult: function(result) {{
-                    // Append .html if Pagefind strips it
                     if (result.url && !result.url.endsWith('.html') && !result.url.includes('#')) {{
                         result.url = result.url + '.html';
                     }}
@@ -203,7 +219,6 @@ def build_site():
                 }}
             }});
 
-            // Global capture-phase listener to intercept search result links
             document.addEventListener('click', function(e) {{
                 const anchor = e.target.closest('a');
                 if (anchor && anchor.closest('#search')) {{
@@ -213,10 +228,8 @@ def build_site():
                     if (href.startsWith('/')) href = href.substring(1);
                     if (!href.endsWith('.html') && !href.includes('#')) href += '.html';
 
-                    // Extract chapter path without anchor
                     const cleanPath = href.split('#')[0];
 
-                    // Match with sidebar links
                     const matchLink = document.querySelector(`#sidebar a[data-eng="${{cleanPath}}"]`) || 
                                       document.querySelector(`#sidebar a[data-hin="${{cleanPath}}"]`);
 

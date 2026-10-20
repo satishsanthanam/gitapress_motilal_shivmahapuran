@@ -20,6 +20,8 @@ HTML_TEMPLATE = """<!DOCTYPE html>
             --translation-color: #111827;
             --fn-bg: #fff5f5;
             --fn-border: #feb2b2;
+            --hover-green: #f4fbf7;
+            --hover-green-border: #2e7d32;
         }}
 
         body {{
@@ -73,10 +75,18 @@ HTML_TEMPLATE = """<!DOCTYPE html>
         .verse-card {{
             background: var(--card-bg);
             border: 1px solid var(--border-color);
+            border-left: 4px solid transparent;
             border-radius: 8px;
             margin-bottom: 20px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.05);
             overflow: hidden;
+            transition: background-color 0.2s ease, border-left-color 0.2s ease, box-shadow 0.2s ease;
+        }}
+
+        .verse-card:hover {{
+            background-color: var(--hover-green);
+            border-left-color: var(--hover-green-border);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.08);
         }}
 
         .verse-label {{
